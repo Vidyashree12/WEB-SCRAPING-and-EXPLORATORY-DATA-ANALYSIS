@@ -1,0 +1,871 @@
+,Furnished_Type,Tenants_Preferred,Sqft,Property_type,BHK,Location,Floor,Area_type,Facing,Balcony,Overlooking,Availability,Bathroom,Monthly_Charges,car_parking
+0,Semi-Furnished,Bachelors/Family,1318,Apartment,3,Masjid Banda,1,Carpet Area,West,2,Main Road,Immediately,3,18000.0,1
+1,Unfurnished,Family,1280,Apartment,2,Hitech City,15,Carpet Area,East,1,Garden/Park,Immediately,2,39500.0,0
+2,Semi-Furnished,Family,1135,Apartment,2,Kukatpally,1,Super Area,South-East,2,Unknown,Immediately,2,23000.0,1
+3,Semi-Furnished,Family,1585,Apartment,2,Financial District,9,Carpet Area,West,2,Garden/Park,Immediately,2,35000.0,2
+4,Semi-Furnished,Bachelors/Family,4541,Villa,4,Gachibowli Phase 3,0,Carpet Area,North-East,2,Garden/Park,Immediately,4,200000.0,2
+5,Unfurnished,Bachelors/Family,1345,Apartment,3,Narsingi,3,Carpet Area,North-East,1,Garden/Park,Immediately,2,25000.0,1
+6,Semi-Furnished,Bachelors,900,Apartment,2,Hitech City,8,Carpet Area,East,1,Main Road,Immediately,2,25000.0,0
+7,Furnished,Bachelors,1650,Penthouse,2,Banjara Hills,5,Carpet Area,East,2,Garden/Park,Immediately,3,60000.0,0
+8,Semi-Furnished,Bachelors,1413,Apartment,3,Appa junction,18,Carpet Area,West,1,Main Road,Immediately,3,23000.0,0
+9,Unfurnished,Bachelors/Family,1750,Villa,4,Shamshabad,0,Carpet Area,East,1,Main Road,Immediately,3,20000.0,1
+10,Unfurnished,Bachelors/Family,160,Villa,4,Narsingi,0,Carpet Area,East,3,Main Road,Immediately,4,70000.0,2
+11,Semi-Furnished,Bachelors/Family,1100,Apartment,3,Shaikpet,4,Super Area,Unknown,0,Unknown,Immediately,2,19000.0,1
+12,Semi-Furnished,Family,1530,Apartment,3,Sri Nagar Colony,2,Super Area,North,2,Unknown,Immediately,2,25000.0,1
+13,Unfurnished,Bachelors/Family,1625,Apartment,3,Raghavendra Nagar,5,Super Area,Unknown,1,Unknown,Immediately,3,30000.0,0
+14,Furnished,Bachelors,1000,Apartment,2,Madinaguda,3,Carpet Area,East,2,Unknown,Immediately,2,17000.0,1
+15,Unfurnished,Bachelors,1259,Apartment,2,Nizampet,5,Super Area,East,1,Garden/Park,From Apr '22,2,17000.0,1
+16,Semi-Furnished,Bachelors/Family,800,House,1,Gandhinagar-Indira Park Road,4,Carpet Area,West,0,Garden/Park,Immediately,1,10000.0,0
+17,Semi-Furnished,Bachelors/Family,1500,House,3,Neredmet,0,Carpet Area,Unknown,2,Unknown,Immediately,3,18000.0,0
+18,Semi-Furnished,Bachelors/Family,1865,Apartment,3,Kondapur,4,Carpet Area,North-East,0,Main Road,From Mar '22,3,33000.0,2
+19,Semi-Furnished,Family,1300,Apartment,3,Chandanagar,3,Carpet Area,North,2,Garden/Park,Immediately,3,20000.0,2
+20,Unfurnished,Bachelors/Family,1200,House,2,Tarnaka,0,Carpet Area,Unknown,0,Unknown,Immediately,2,11000.0,0
+21,Unfurnished,Bachelors,1000,House,2,CMC Enclave,1,Carpet Area,East,2,Garden/Park,Immediately,3,33000.0,2
+22,Semi-Furnished,Bachelors/Family,1720,Apartment,3,Vasantha Nagar,1,Super Area,Unknown,0,Unknown,Immediately,3,25000.0,0
+23,Semi-Furnished,Bachelors,4000,Villa,4,Hitech City,0,Super Area,East,2,Main Road,Immediately,4,100000.0,0
+24,Unfurnished,Family,1400,Apartment,3,Quthbullapur,4,Carpet Area,North-East,2,Unknown,Immediately,3,16000.0,1
+25,Unfurnished,Bachelors/Family,960,House,2,Tellapur,0,Carpet Area,North,1,Garden/Park,Immediately,1,9000.0,0
+26,Furnished,Bachelors/Family,3000,Apartment,4,Ram Koti,1,Super Area,Unknown,0,Unknown,Immediately,4,55000.0,0
+27,Unfurnished,Bachelors/Family,1800,House,3,Upparpally,2,Super Area,West,0,Garden/Park,Immediately,3,15000.0,0
+28,Semi-Furnished,Bachelors,3131,Villa,5,Gundlapochampally,0,Super Area,West,2,Main Road,Immediately,5,30000.0,0
+29,Semi-Furnished,Bachelors/Family,2500,Villa,5,Yapral,0,Carpet Area,East,2,Garden/Park,Immediately,5,35000.0,1
+30,Semi-Furnished,Family,1510,Apartment,3,Mythri Nagar,4,Carpet Area,East,1,Garden/Park,Immediately,3,25000.0,1
+31,Furnished,Bachelors,1050,Apartment,2,Narsingi,1,Carpet Area,East,1,Garden/Park,Immediately,2,25500.0,1
+32,Unfurnished,Bachelors,900,Apartment,2,Jayabharathi gardens,2,Carpet Area,North,3,Garden/Park,Immediately,2,16000.0,2
+33,Semi-Furnished,Bachelors/Family,2600,Apartment,3,Kokapet,14,Carpet Area,West,3,Garden/Park,Immediately,4,55000.0,2
+34,Semi-Furnished,Family,1400,Apartment,3,Mallapur,1,Carpet Area,East,1,Main Road,Immediately,2,26000.0,1
+35,Semi-Furnished,Family,2800,House,4,Pragathi Nagar,0,Carpet Area,North-East,1,Main Road,Immediately,4,29500.0,1
+36,Unfurnished,Bachelors/Family,950,Apartment,2,Saidabad Colony,2,Super Area,East,1,Unknown,Immediately,2,9500.0,1
+37,Unfurnished,Family,1280,Apartment,3,Bandam Kommu,1,Carpet Area,West,1,Garden/Park,Immediately,3,30000.0,2
+38,Unfurnished,Bachelors,2200,Apartment,3,DD Colony,2,Carpet Area,North,3,Garden/Park,Immediately,3,27000.0,0
+39,Semi-Furnished,Bachelors/Family,1000,Apartment,3,Balanagar,2,Carpet Area,East,2,Main Road,Immediately,2,10500.0,1
+40,Furnished,Bachelors/Family,2400,House,3,Kachiguda,1,Super Area,North-East,3,Main Road,Immediately,3,32000.0,1
+41,Unfurnished,Bachelors,1000,House,2,Chilka Nagar,0,Carpet Area,North-East,4,Unknown,Immediately,2,7500.0,0
+42,Semi-Furnished,Bachelors/Family,2750,Apartment,3,Kokapet,2,Carpet Area,Unknown,3,Unknown,Immediately,4,45000.0,0
+43,Unfurnished,Bachelors/Family,1450,Apartment,4,Serilingampally,3,Carpet Area,East,2,Unknown,Immediately,4,22000.0,0
+44,Semi-Furnished,Family,900,Apartment,2,Masab Tank,1,Carpet Area,East,1,Main Road,Immediately,2,13000.0,1
+45,Semi-Furnished,Bachelors/Family,1050,House,2,Rampally,0,Carpet Area,East,2,Main Road,Immediately,2,7500.0,0
+46,Semi-Furnished,Family,800,Apartment,2,Lakdikapul,1,Carpet Area,South-East,1,Garden/Park,Immediately,2,13000.0,1
+47,Semi-Furnished,Family,3380,Apartment,4,Narsingi,11,Super Area,West,2,Garden/Park,Immediately,4,65000.0,2
+48,Semi-Furnished,Bachelors/Family,2410,Apartment,3,Gachibowli,9,Super Area,West,2,Garden/Park,Immediately,3,45000.0,2
+49,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Himayath Nagar,2,Carpet Area,North,0,Main Road,Immediately,2,20000.0,1
+50,Semi-Furnished,Bachelors/Family,4500,House,4,Jubilee Hills,0,Carpet Area,North,4,Garden/Park,Immediately,6,250000.0,5
+51,Semi-Furnished,Family,2395,Apartment,3,Phase 2,3,Carpet Area,West,1,Garden/Park,Immediately,3,90000.0,2
+52,Unfurnished,Bachelors,3000,Apartment,3,Film Nagar,3,Carpet Area,East,3,Garden/Park,Immediately,3,90000.0,0
+53,Unfurnished,Family,3545,Apartment,3,Banjara Hills,0,Carpet Area,West,1,Garden/Park,Immediately,4,180000.0,0
+54,Furnished,Family,1500,Apartment,3,Chandanagar,10,Carpet Area,East,3,Garden/Park,Immediately,3,28000.0,1
+55,Semi-Furnished,Bachelors,1590,Apartment,3,Kondapur,1,Super Area,North,1,Pool,Immediately,3,35000.0,0
+56,Unfurnished,Bachelors/Family,1200,House,2,Saroornagar,1,Carpet Area,East,1,Unknown,Immediately,2,10500.0,0
+57,Semi-Furnished,Bachelors,1435,Apartment,3,Narsingi,2,Carpet Area,North,2,Main Road,Immediately,3,21000.0,0
+58,Semi-Furnished,Bachelors/Family,1625,Apartment,3,Miyapur,4,Carpet Area,East,2,Main Road,Immediately,2,24000.0,0
+59,Unfurnished,Bachelors/Family,500,Apartment,1,Asif Nagar,3,Carpet Area,East,1,Unknown,Immediately,1,8500.0,1
+60,Unfurnished,Family,1150,Apartment,3,Manikonda,3,Carpet Area,South-East,1,Garden/Park,Immediately,3,18000.0,0
+61,Furnished,Bachelors/Family,3045,Apartment,4,Kokapet,1,Carpet Area,East,0,Unknown,Immediately,4,70000.0,0
+62,Semi-Furnished,Bachelors/Family,1520,Apartment,3,Kokapet,1,Carpet Area,East,2,Garden/Park,Immediately,3,27000.0,1
+63,Unfurnished,Bachelors/Family,1500,House,2,Ramchandrapuram Mandal,2,Carpet Area,East,2,Main Road,Immediately,2,13000.0,0
+64,Unfurnished,Bachelors/Family,1645,Apartment,3,Financial District,5,Carpet Area,East,1,Garden/Park,Immediately,3,36000.0,2
+65,Furnished,Bachelors,3600,Apartment,4,Kondapur,9,Super Area,West,2,Garden/Park,Immediately,4,65000.0,2
+66,Furnished,Family,3395,Apartment,3,Gachibowli,5,Carpet Area,West,3,Garden/Park,Immediately,4,80000.0,2
+67,Unfurnished,Bachelors,4200,Apartment,4,Gachibowli,10,Super Area,East,2,Garden/Park,Immediately,4,130000.0,0
+68,Unfurnished,Family,1275,Apartment,2,Nanakram Guda,17,Carpet Area,East,1,Garden/Park,Immediately,2,30000.0,1
+69,Semi-Furnished,Family,1500,Apartment,3,Hitech City,3,Carpet Area,East,1,Garden/Park,Immediately,3,35000.0,1
+70,Unfurnished,Bachelors,2250,Apartment,3,Madhapur,3,Super Area,West,2,Pool,Immediately,3,40000.0,0
+71,Semi-Furnished,Family,2595,Apartment,3,Hitech City,20,Super Area,West,1,Garden/Park,Immediately,3,100000.0,2
+72,Unfurnished,Bachelors,900,Apartment,2,Gachibowli,6,Carpet Area,South,1,Garden/Park,Immediately,2,35000.0,0
+73,Furnished,Bachelors/Family,11000,Unknown,0,Kondapur,4,Super Area,East,11,Main Road,Immediately,11,540000.0,8
+74,Semi-Furnished,Bachelors,1300,Apartment,3,Chandanagar,4,Carpet Area,East,3,Garden/Park,Immediately,3,25000.0,1
+75,Unfurnished,Bachelors/Family,800,House,2,Vanasthalipuram,1,Super Area,Unknown,1,Unknown,Immediately,2,8000.0,0
+76,Unfurnished,Bachelors/Family,2000,House,2,Uppal Metro,0,Super Area,Unknown,0,Unknown,Immediately,2,10000.0,0
+77,Semi-Furnished,Bachelors/Family,1200,Apartment,3,Anandbagh,5,Carpet Area,Unknown,2,Unknown,From Mar '22,2,16000.0,0
+78,Unfurnished,Bachelors,1350,Apartment,3,Chikkadpally,2,Carpet Area,North-East,1,Unknown,Immediately,2,30000.0,0
+79,Unfurnished,Bachelors,1600,Apartment,3,Kondapur,5,Carpet Area,North-East,2,Main Road,Immediately,3,22500.0,0
+80,Semi-Furnished,Bachelors,1100,Apartment,2,Kondapur,2,Carpet Area,East,2,Main Road,Immediately,2,16000.0,0
+81,Furnished,Family,1100,Apartment,2,Appa junction,16,Carpet Area,West,1,Garden/Park,Immediately,2,22500.0,1
+82,Semi-Furnished,Bachelors,540,Apartment,1,Kondapur,1,Carpet Area,North,1,Main Road,Immediately,1,10000.0,0
+83,Semi-Furnished,Bachelors,5000,Villa,4,Gandipet,0,Carpet Area,West,2,Garden/Park,Immediately,5,300000.0,0
+84,Furnished,Bachelors,2490,Apartment,3,Gachibowli,2,Super Area,West,2,Garden/Park,Immediately,3,55000.0,0
+85,Semi-Furnished,Family,1000,Apartment,2,Madhura Nagar,5,Carpet Area,East,1,Main Road,Immediately,2,19000.0,1
+86,Semi-Furnished,Bachelors,1150,Apartment,2,Begumpet,3,Carpet Area,East,2,Main Road,Immediately,2,16000.0,0
+87,Semi-Furnished,Family,2500,Apartment,3,Nanakaramguda,2,Carpet Area,West,2,Garden/Park,Immediately,3,44000.0,2
+88,Semi-Furnished,Family,2136,Apartment,4,Gachibowli,7,Carpet Area,North-East,3,Garden/Park,Immediately,4,70000.0,2
+89,Semi-Furnished,Family,3925,Villa,4,Nalagandla,0,Super Area,Unknown,4,Unknown,Immediately,4,80000.0,0
+90,Furnished,Bachelors/Family,2350,Apartment,4,Khaja Guda,4,Carpet Area,East,2,Garden/Park,Immediately,4,55600.0,2
+91,Furnished,Bachelors,750,Apartment,1,Kondapur,3,Carpet Area,East,1,Garden/Park,Immediately,1,13500.0,0
+92,Unfurnished,Bachelors/Family,2500,Apartment,3,Punjagutta,2,Super Area,East,3,Main Road,Immediately,3,60000.0,1
+93,Semi-Furnished,Family,3900,Apartment,4,Hitech City,24,Carpet Area,East,2,Garden/Park,Immediately,5,170000.0,3
+94,Furnished,Family,1490,Apartment,3,Hafeezpet,4,Super Area,East,1,Garden/Park,Immediately,3,26000.0,2
+95,Furnished,Bachelors,1283,Apartment,2,Gachibowli,0,Super Area,East,1,Garden/Park,Immediately,2,40000.0,0
+96,Semi-Furnished,Bachelors/Family,1750,Apartment,3,Gajularamaram,1,Carpet Area,Unknown,1,Unknown,From Mar '22,3,17000.0,0
+97,Furnished,Bachelors/Family,1214,Apartment,2,Ameerpet,5,Carpet Area,West,2,Unknown,Immediately,2,25000.0,0
+98,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Nanakram Guda,3,Carpet Area,West,2,Unknown,Immediately,3,33000.0,1
+99,Semi-Furnished,Family,1500,Apartment,3,Chandanagar,3,Carpet Area,East,2,Garden/Park,Immediately,3,23000.0,1
+100,Unfurnished,Bachelors,700,Apartment,2,Beeramguda,1,Carpet Area,North-East,1,Unknown,Immediately,1,12500.0,0
+101,Semi-Furnished,Bachelors/Family,1025,Apartment,2,Moosapet,4,Carpet Area,South-East,1,Unknown,Immediately,2,15000.0,0
+102,Furnished,Bachelors/Family,1121,Apartment,2,Sainikpuri,4,Carpet Area,East,2,Unknown,Immediately,2,30000.0,1
+103,Semi-Furnished,Bachelors/Family,2890,Apartment,3,The Founta,5,Super Area,East,2,Garden/Park,Immediately,3,44000.0,0
+104,Semi-Furnished,Bachelors,800,House,2,Sainikpuri,0,Carpet Area,East,1,Main Road,Immediately,1,13000.0,0
+105,Semi-Furnished,Bachelors,1300,Apartment,3,Saleem Nagar,2,Carpet Area,North-East,2,Garden/Park,Immediately,3,27000.0,0
+106,Unknown,Bachelors/Family,2000,Unknown,0,Banjara Hills,0,Super Area,Unknown,0,Unknown,Immediately,0,35000.0,0
+107,Unfurnished,Bachelors/Family,1200,Apartment,3,Gachibowli,5,Carpet Area,East,1,Main Road,Immediately,3,36000.0,0
+108,Semi-Furnished,Bachelors/Family,2400,Apartment,3,Banjara Hills,5,Super Area,Unknown,0,Unknown,Immediately,2,47000.0,0
+109,Unfurnished,Bachelors/Family,2000,House,3,MIG Phase II,0,Super Area,East,0,Main Road,Immediately,2,18000.0,2
+110,Semi-Furnished,Family,1040,Apartment,2,Gandhi Nagar-Boiguda,1,Super Area,East,2,Unknown,Immediately,2,18000.0,1
+111,Semi-Furnished,Family,1290,Apartment,3,Ameerpet,1,Carpet Area,South-East,1,Main Road,Immediately,3,22500.0,2
+112,Semi-Furnished,Bachelors/Family,850,Apartment,2,Hyderguda,1,Super Area,Unknown,0,Unknown,Immediately,2,18000.0,0
+113,Unfurnished,Bachelors,1850,House,3,Salar Jung Colony,1,Carpet Area,North-East,3,Unknown,Immediately,2,16000.0,2
+114,Semi-Furnished,Bachelors,1120,Apartment,2,Kondapur,1,Carpet Area,North,1,Main Road,Immediately,2,15000.0,0
+115,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Musheerabad,4,Carpet Area,Unknown,1,Unknown,Immediately,2,15000.0,0
+116,Semi-Furnished,Bachelors/Family,1840,Apartment,3,Puppalaguda,1,Super Area,Unknown,3,Unknown,Immediately,3,22000.0,2
+117,Furnished,Bachelors/Family,2200,Apartment,3,P Janardhan Reddy Nagar,4,Super Area,West,0,Main Road,Immediately,3,26000.0,1
+118,Unfurnished,Bachelors/Family,2200,Villa,2,Mohan Nagar,0,Carpet Area,East,0,Unknown,Immediately,2,12000.0,1
+119,Furnished,Family,3050,Apartment,4,DD Colony,2,Carpet Area,North-East,1,Main Road,Immediately,4,28000000.0,2
+120,Semi-Furnished,Bachelors/Family,16000,Apartment,11,Osmangunj,3,Carpet Area,East,5,Main Road,Immediately,11,430000.0,2
+121,Semi-Furnished,Family,1800,Apartment,3,Kukatpally,12,Super Area,West,0,Unknown,Immediately,3,42000.0,2
+122,Semi-Furnished,Bachelors/Family,2417,Apartment,3,Kondapur,2,Super Area,Unknown,1,Unknown,Immediately,3,47000.0,2
+123,Semi-Furnished,Bachelors/Family,1100,Apartment,2,Narsingi,3,Carpet Area,East,2,Garden/Park,From Mar '22,2,15000.0,1
+124,Semi-Furnished,Bachelors/Family,400,Villa,4,Gandipet,0,Carpet Area,Unknown,2,Unknown,From Mar '22,4,70000.0,0
+125,Semi-Furnished,Bachelors,80,House,1,Sanath Nagar,2,Carpet Area,East,1,Main Road,Immediately,2,10000.0,0
+126,Semi-Furnished,Bachelors,4000,Villa,4,Kismatpur,0,Carpet Area,West,3,Garden/Park,Immediately,5,100000.0,0
+127,Furnished,Bachelors/Family,2018,Apartment,3,Gachibowli,25,Super Area,North,3,Unknown,Immediately,3,45000.0,2
+128,Unfurnished,Bachelors,6050,Villa,5,Kokapet,0,Carpet Area,East,5,Garden/Park,Immediately,6,150000.0,0
+129,Unfurnished,Bachelors,1650,Apartment,3,Uppal,5,Carpet Area,North,1,Unknown,Immediately,3,20000.0,0
+130,Semi-Furnished,Bachelors/Family,600,Apartment,10,Bagh Ameer,3,Carpet Area,East,4,Main Road,Immediately,9,400000.0,0
+131,Furnished,Bachelors/Family,1700,Apartment,3,Kothaguda,4,Carpet Area,East,2,Garden/Park,Immediately,3,45000.0,2
+132,Semi-Furnished,Bachelors,4200,House,6,Bhagya Nagar Colony,2,Carpet Area,North,1,Garden/Park,Immediately,2,80000.0,0
+133,Unfurnished,Bachelors/Family,250,Unknown,0,Aminpur,2,Super Area,Unknown,0,Unknown,Immediately,1,4500.0,0
+134,Semi-Furnished,Bachelors/Family,500,House,1,Kavadiguda,0,Super Area,Unknown,0,Unknown,Immediately,2,9500.0,0
+135,Furnished,Bachelors/Family,1450,Apartment,3,crystal heights,6,Carpet Area,Unknown,1,Unknown,Immediately,3,35000.0,0
+136,Furnished,Bachelors/Family,2700,Apartment,3,Kokapet,15,Carpet Area,West,2,Garden/Park,Immediately,4,44000.0,2
+137,Semi-Furnished,Family,1510,Apartment,3,Madinaguda,4,Carpet Area,East,1,Main Road,Immediately,3,25000.0,1
+138,Unfurnished,Bachelors,800,Apartment,2,Dammaiguda,2,Carpet Area,West,1,Unknown,Immediately,2,6500.0,0
+139,Unfurnished,Bachelors,1200,House,2,Ismailkhanguda,0,Carpet Area,West,1,Unknown,Immediately,2,7000.0,0
+140,Semi-Furnished,Bachelors/Family,1370,Apartment,3,Miyapur,4,Carpet Area,North-West,2,Main Road,Immediately,2,22000.0,0
+141,Semi-Furnished,Bachelors/Family,2700,House,4,Dandamudi Enclave,0,Carpet Area,East,1,Main Road,Immediately,3,32000.0,1
+142,Semi-Furnished,Bachelors/Family,1528,Apartment,3,Appa junction,10,Carpet Area,West,1,Garden/Park,Immediately,3,30000.0,1
+143,Furnished,Bachelors/Family,1825,Apartment,3,Kothur,3,Super Area,Unknown,1,Garden/Park,Immediately,3,40000.0,2
+144,Unfurnished,Bachelors,1040,Villa,2,Bhavanipuram,0,Super Area,West,0,Unknown,Immediately,2,9000.0,0
+145,Furnished,Family,1550,House,2,Bandlaguda Jagir,2,Super Area,West,3,Main Road,Immediately,2,14500.0,3
+146,Semi-Furnished,Bachelors/Family,2200,House,2,Narapally,0,Carpet Area,North,1,Main Road,Immediately,2,12000.0,0
+147,Unfurnished,Bachelors/Family,700,Apartment,1,Barkatpura,1,Carpet Area,Unknown,1,Unknown,Immediately,1,10000.0,0
+148,Unfurnished,Bachelors,4000,Villa,4,Gandipet,0,Super Area,East,1,Main Road,Immediately,5,280000.0,0
+149,Unfurnished,Bachelors,1875,Apartment,3,Kondapur,6,Carpet Area,East,2,Garden/Park,Immediately,3,36000.0,0
+150,Unfurnished,Bachelors,1500,House,3,Rampally,1,Carpet Area,West,1,Garden/Park,Immediately,3,10000.0,0
+151,Furnished,Bachelors/Family,1100,Apartment,3,Kothaguda,1,Carpet Area,East,1,Unknown,Immediately,3,30000.0,0
+152,Furnished,Bachelors/Family,900,Apartment,1,Appa junction,5,Carpet Area,North-East,1,Garden/Park,Immediately,1,15000.0,1
+153,Semi-Furnished,Bachelors/Family,5200,Villa,5,Trimulgherry,0,Super Area,East,2,Garden/Park,Immediately,5,80000.0,2
+154,Unfurnished,Family,1000,Apartment,2,Moti Nagar,3,Carpet Area,North-East,2,Main Road,Immediately,2,15000.0,0
+155,Furnished,Bachelors/Family,928,Apartment,2,Rajendra Nagar,9,Super Area,East,0,Garden/Park,Immediately,2,20000.0,0
+156,Semi-Furnished,Bachelors,1100,House,3,Deendayal Nagar Neredmet Hyderabad,0,Carpet Area,South,2,Unknown,Immediately,3,15000.0,0
+157,Unfurnished,Bachelors/Family,3872,Villa,4,Gopanapalli,0,Carpet Area,East,3,Garden/Park,Immediately,4,80000.0,2
+158,Semi-Furnished,Bachelors/Family,5800,House,3,Jubilee Hills,3,Carpet Area,West,2,Garden/Park,Immediately,3,130000.0,0
+159,Furnished,Bachelors/Family,1500,Apartment,3,Kothaguda,4,Carpet Area,Unknown,2,Unknown,Immediately,3,35000.0,4
+160,Unfurnished,Bachelors/Family,1200,House,2,Krishna Reddy Pet,1,Super Area,East,0,Unknown,Immediately,2,7500.0,1
+161,Furnished,Bachelors,2300,Apartment,3,Alkapur Township,5,Carpet Area,East,2,Main Road,Immediately,3,40000.0,0
+162,Furnished,Bachelors/Family,1950,Apartment,3,Srinagar Colony,3,Carpet Area,South-East,3,Main Road,From Apr '22,3,50000.0,1
+163,Unknown,Bachelors/Family,2275,Apartment,3,Kondapur,0,Super Area,West,0,Unknown,Immediately,0,60208.0,0
+164,Semi-Furnished,Bachelors,2080,Apartment,3,financial district Gachibowli,5,Carpet Area,West,3,Garden/Park,Immediately,5,55000.0,0
+165,Semi-Furnished,Bachelors,2430,Apartment,3,Gachibowli,7,Super Area,West,2,Garden/Park,Immediately,3,55000.0,1
+166,Unfurnished,Bachelors,1460,Apartment,3,Boiguda,4,Carpet Area,North,1,Main Road,Immediately,3,23000.0,0
+167,Semi-Furnished,Bachelors,1300,Apartment,2,Shilpa Avenue Colony,1,Carpet Area,East,1,Garden/Park,Immediately,2,20000.0,0
+168,Semi-Furnished,Bachelors,950,Apartment,2,Serilingampally,0,Carpet Area,East,0,Main Road,Immediately,2,20000.0,1
+169,Semi-Furnished,Family,2150,Apartment,3,Tellapur,13,Super Area,East,0,Garden/Park,Immediately,3,25000.0,1
+170,Unfurnished,Bachelors/Family,800,Apartment,2,Ram nagar,1,Super Area,Unknown,0,Unknown,Immediately,2,12000.0,0
+171,Unfurnished,Bachelors/Family,1400,Apartment,3,Medipally,2,Carpet Area,South,1,Garden/Park,Immediately,2,22000.0,0
+172,Furnished,Bachelors/Family,1920,Apartment,3,Adarsh Nagar,1,Carpet Area,Unknown,2,Unknown,Immediately,3,35000.0,0
+173,Semi-Furnished,Bachelors,800,Apartment,2,Balanagar,1,Carpet Area,Unknown,1,Main Road,Immediately,2,16000.0,0
+174,Semi-Furnished,Bachelors/Family,1800,House,3,Budwel,1,Super Area,Unknown,0,Unknown,Immediately,3,17000.0,0
+175,Unfurnished,Bachelors,1650,Apartment,3,Kokapet,1,Carpet Area,East,1,Garden/Park,Immediately,3,35000.0,0
+176,Semi-Furnished,Bachelors/Family,1450,House,3,Lalitha Nagar-Adikmet,1,Carpet Area,North-East,2,Main Road,Immediately,3,16000.0,0
+177,Semi-Furnished,Bachelors/Family,1100,Apartment,2,Masjid Banda,5,Carpet Area,West,1,Main Road,Immediately,2,20000.0,1
+178,Semi-Furnished,Bachelors/Family,1600,House,3,Hastinapuram,3,Carpet Area,East,3,Unknown,Immediately,3,21500.0,0
+179,Semi-Furnished,Bachelors/Family,750,Apartment,2,Hayat Nagar,3,Carpet Area,East,1,Garden/Park,Immediately,2,9000.0,1
+180,Furnished,Bachelors/Family,1300,Apartment,3,Fort View,0,Carpet Area,West,2,Main Road,Immediately,3,32000.0,0
+181,Semi-Furnished,Bachelors/Family,1200,Apartment,3,Musheerabad,1,Carpet Area,East,3,Main Road,Immediately,3,22000.0,1
+182,Unfurnished,Bachelors,1500,Apartment,4,Manikonda,5,Carpet Area,West,2,Garden/Park,Immediately,3,24000.0,0
+183,Semi-Furnished,Bachelors/Family,1600,House,2,BHEL Employees Co-operative Housing Society,0,Carpet Area,East,0,Unknown,Immediately,2,16000.0,0
+184,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Madinaguda,1,Carpet Area,East,2,Main Road,Immediately,3,28000.0,0
+185,Semi-Furnished,Bachelors/Family,1000,House,2,Gajularamaram,0,Carpet Area,Unknown,1,Unknown,Immediately,2,9500.0,0
+186,Furnished,Bachelors/Family,1300,Apartment,2,Dwarakapuri,3,Super Area,East,1,Unknown,Immediately,2,26000.0,0
+187,Semi-Furnished,Bachelors/Family,700,House,1,Gokul Nagar-Tarnaka,1,Carpet Area,West,1,Garden/Park,Immediately,1,17000.0,1
+188,Furnished,Bachelors/Family,3006,Apartment,3,Banjara Hills,4,Carpet Area,East,0,Main Road,Immediately,4,110000.00000000001,2
+189,Semi-Furnished,Bachelors/Family,2100,Apartment,3,Banjara Hills,4,Carpet Area,West,2,Main Road,Immediately,3,45000.0,1
+190,Semi-Furnished,Bachelors,1575,Apartment,3,Mehdipatnam,2,Carpet Area,East,1,Unknown,Immediately,3,25000.0,0
+191,Unfurnished,Bachelors/Family,2100,Apartment,3,Madhapur,3,Carpet Area,West,1,Garden/Park,Immediately,3,70000.0,0
+192,Unfurnished,Family,750,Apartment,2,Madinaguda,1,Carpet Area,West,1,Main Road,Immediately,2,14000.0,1
+193,Semi-Furnished,Bachelors,1000,Apartment,2,Chanda Nagar,4,Carpet Area,East,1,Main Road,Immediately,2,16000.0,0
+194,Semi-Furnished,Bachelors/Family,2000,Apartment,3,Narayanguda,1,Carpet Area,East,2,Garden/Park,Immediately,3,45000.0,2
+195,Semi-Furnished,Bachelors/Family,1600,Apartment,2,Banjara Hills,4,Carpet Area,East,1,Garden/Park,Immediately,2,35000.0,1
+196,Semi-Furnished,Family,3315,Apartment,3,Jubilee Hills,3,Super Area,East,1,Main Road,Immediately,3,80000.0,2
+197,Semi-Furnished,Bachelors/Family,950,House,2,Bandlaguda Jagir,0,Carpet Area,East,1,Main Road,Immediately,2,10000.0,0
+198,Semi-Furnished,Bachelors/Family,1825,Apartment,3,Kondapur,4,Super Area,West,1,Garden/Park,Immediately,3,35000.0,1
+199,Unfurnished,Family,750,Apartment,2,Serilingampally,3,Carpet Area,North,1,Unknown,Immediately,2,8000.0,0
+200,Semi-Furnished,Family,1844,Apartment,3,Whitefields,14,Super Area,West,1,Unknown,Immediately,2,45000.0,2
+201,Semi-Furnished,Bachelors/Family,1250,Apartment,2,Nallagandla,1,Carpet Area,West,2,Garden/Park,Immediately,2,21000.0,1
+202,Semi-Furnished,Family,1100,Apartment,2,Serilingampally,1,Super Area,East,0,Main Road,Immediately,2,13500.0,1
+203,Semi-Furnished,Family,1584,Apartment,3,Appa junction,14,Super Area,East,3,Garden/Park,Immediately,3,29000.0,9
+204,Unfurnished,Bachelors/Family,800,Apartment,1,Peeramcheru,2,Carpet Area,East,2,Main Road,Immediately,1,9000.0,0
+205,Furnished,Family,4800,Apartment,4,Silpa Park,3,Super Area,North-East,4,Unknown,Immediately,4,70000.0,1
+206,Semi-Furnished,Family,1833,Apartment,3,Gajularamaram,5,Carpet Area,East,2,Main Road,Immediately,3,18000.0,1
+207,Furnished,Family,1800,House,2,Osman Nagar,0,Super Area,West,1,Garden/Park,Immediately,2,12000.0,1
+208,Unfurnished,Bachelors,1000,Apartment,2,neha residency bachupalli,3,Carpet Area,East,1,Garden/Park,Immediately,2,11000.0,0
+209,Semi-Furnished,Family,1858,Apartment,3,Lanco Hills,5,Carpet Area,West,2,Garden/Park,Immediately,3,25000.0,0
+210,Unfurnished,Bachelors,4320,Apartment,4,Hitech City,7,Carpet Area,West,2,Garden/Park,Immediately,6,200000.0,0
+211,Semi-Furnished,Bachelors/Family,1550,House,2,Vanasthalipuram,0,Carpet Area,East,1,Garden/Park,Immediately,3,22000.0,1
+212,Furnished,Bachelors/Family,1080,Apartment,2,K P H B Phase 1,2,Carpet Area,South,1,Garden/Park,Immediately,2,19000.0,1
+213,Unfurnished,Bachelors,1000,Apartment,2,Upperpally,3,Carpet Area,East,1,Unknown,Immediately,2,15000.0,0
+214,Unfurnished,Bachelors/Family,1000,House,2,Jubilee Hills,0,Super Area,Unknown,0,Unknown,Immediately,2,16000.0,0
+215,Semi-Furnished,Bachelors,192,Villa,4,Ghatkesar,0,Carpet Area,East,2,Garden/Park,Immediately,3,15000.0,0
+216,Semi-Furnished,Family,1460,Apartment,3,Gachibowli,4,Carpet Area,West,3,Garden/Park,Immediately,3,32000.0,1
+217,Unfurnished,Bachelors,110,House,2,Tolichowki,1,Carpet Area,Unknown,1,Unknown,Immediately,2,9000.0,0
+218,Semi-Furnished,Bachelors/Family,1200,Apartment,2,Attapur,8,Carpet Area,Unknown,2,Garden/Park,Immediately,2,20000.0,1
+219,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Whitefields,4,Super Area,West,2,Unknown,Immediately,2,17000.0,0
+220,Semi-Furnished,Bachelors/Family,1260,Apartment,2,Begumpet,1,Carpet Area,Unknown,2,Unknown,Immediately,2,25000.0,0
+221,Furnished,Bachelors/Family,1800,Apartment,3,Anjaiah Nagar,5,Super Area,Unknown,0,Unknown,Immediately,3,23000.0,0
+222,Unfurnished,Family,1241,Apartment,2,Kapra,4,Super Area,South,1,Main Road,Immediately,2,13000.0,1
+223,Semi-Furnished,Family,1250,Apartment,3,Huda Colony-Mehdipatnam,1,Carpet Area,East,2,Unknown,Immediately,2,25000.0,1
+224,Furnished,Bachelors/Family,960,Apartment,2,Himayath Nagar,4,Carpet Area,North,2,Unknown,Immediately,2,25000.0,2
+225,Semi-Furnished,Bachelors/Family,1465,Apartment,3,Hafeezpet,10,Carpet Area,Unknown,1,Unknown,Immediately,2,25000.0,0
+226,Semi-Furnished,Family,1663,Apartment,3,Miyapur,3,Super Area,West,2,Garden/Park,Immediately,3,30000.0,1
+227,Semi-Furnished,Family,2630,Apartment,4,Narsingi,7,Carpet Area,West,2,Main Road,Immediately,5,60000.0,2
+228,Unfurnished,Bachelors/Family,3975,Villa,4,Manchirevula,0,Carpet Area,East,1,Garden/Park,Immediately,6,130000.0,0
+229,Semi-Furnished,Bachelors/Family,1850,Apartment,3,Kondapur,2,Super Area,Unknown,0,Unknown,Immediately,2,28000.0,0
+230,Unfurnished,Bachelors,850,House,2,Raghavendra Colony,2,Carpet Area,West,1,Unknown,Immediately,2,8000.0,0
+231,Unfurnished,Bachelors,815,Apartment,2,Beeramguda,4,Carpet Area,North-East,2,Main Road,Immediately,2,8000.0,0
+232,Furnished,Bachelors,600,Apartment,1,Indira Nagar-Gachibowli,1,Carpet Area,East,1,Main Road,Immediately,1,18000.0,5
+233,Semi-Furnished,Family,2200,House,3,Muppas Panchavati Colony,2,Carpet Area,North-West,3,Unknown,From Mar '22,3,27500.0,1
+234,Semi-Furnished,Bachelors/Family,1150,Apartment,2,Miyapur,4,Super Area,East,1,Main Road,Immediately,2,15000.0,1
+235,Unfurnished,Family,1000,Apartment,2,Chandanagar,4,Carpet Area,East,2,Main Road,Immediately,2,14000.0,0
+236,Unfurnished,Bachelors/Family,1400,House,1,P S Rao Nagar,1,Carpet Area,North-East,0,Main Road,Immediately,2,7000.0,1
+237,Semi-Furnished,Bachelors/Family,2410,Apartment,3,Gachibowli,4,Super Area,East,3,Garden/Park,Immediately,3,45000.0,2
+238,Semi-Furnished,Family,135,House,2,Hyderabad,1,Super Area,East,0,Unknown,Immediately,3,10000.0,1
+239,Furnished,Family,2400,Apartment,3,Kokapet,4,Carpet Area,West,3,Garden/Park,Immediately,4,43000.0,0
+240,Semi-Furnished,Family,1100,Apartment,2,Lingampally-Serilingampally,2,Carpet Area,East,2,Garden/Park,Immediately,2,18500.0,1
+241,Semi-Furnished,Bachelors,450,Apartment,1,Bowenpally,6,Carpet Area,Unknown,1,Unknown,From Mar '22,1,12000.0,0
+242,Unfurnished,Bachelors,850,Apartment,2,Green Park Colony,2,Carpet Area,East,1,Main Road,Immediately,2,9500.0,0
+243,Unfurnished,Family,1150,Apartment,2,Narsingi,1,Carpet Area,East,2,Garden/Park,Immediately,2,20000.0,0
+244,Semi-Furnished,Family,1400,Apartment,2,Gandhi Nagar,5,Super Area,South,4,Unknown,Immediately,2,20000.0,5
+245,Unfurnished,Family,1300,House,2,Trimulgherry,0,Carpet Area,East,0,Unknown,Immediately,2,14000.0,1
+246,Semi-Furnished,Bachelors/Family,847,Apartment,2,Chanda Nagar,5,Super Area,Unknown,1,Unknown,Immediately,2,13500.0,0
+247,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Safilguda,2,Super Area,Unknown,0,Unknown,Immediately,2,9000.0,0
+248,Semi-Furnished,Bachelors/Family,800,Apartment,2,Tarnaka,1,Carpet Area,North,0,Unknown,Immediately,2,12000.0,1
+249,Semi-Furnished,Family,1450,Apartment,3,Kukatpally,10,Carpet Area,West,0,Pool,Immediately,3,45000.0,1
+250,Semi-Furnished,Bachelors/Family,1800,Villa,4,International Airport,0,Super Area,East,1,Unknown,Immediately,2,15000.0,2
+251,Unfurnished,Family,900,Penthouse,1,Trimulgherry,2,Carpet Area,Unknown,0,Unknown,Immediately,1,8500.0,0
+252,Unfurnished,Bachelors/Family,1000,Apartment,2,Gajularamaram,1,Carpet Area,East,1,Main Road,Immediately,2,11000.0,0
+253,Semi-Furnished,Bachelors/Family,2045,Apartment,3,Gachibowli,11,Super Area,Unknown,0,Unknown,Immediately,3,45000.0,0
+254,Unfurnished,Family,900,Apartment,3,Bongloor,3,Carpet Area,West,1,Unknown,Immediately,3,9000.0,1
+255,Semi-Furnished,Bachelors,1850,Apartment,3,Silpa Park,0,Carpet Area,East,1,Garden/Park,Immediately,3,30000.0,1
+256,Unfurnished,Bachelors/Family,850,Apartment,2,Financial District,14,Carpet Area,East,1,Garden/Park,Immediately,2,30000.0,1
+257,Semi-Furnished,Family,1660,Apartment,3,Kondapur,3,Super Area,North-West,0,Unknown,Immediately,3,26000.0,1
+258,Unfurnished,Bachelors,700,House,1,Chengicherla,2,Carpet Area,North-East,1,Garden/Park,Immediately,1,6000.0,0
+259,Semi-Furnished,Bachelors/Family,1300,House,3,Bandlaguda,2,Carpet Area,North-West,1,Main Road,Immediately,3,22000.0,1
+260,Unfurnished,Bachelors,1500,Apartment,2,Tellapur,1,Carpet Area,East,2,Unknown,Immediately,1,10000.0,0
+261,Semi-Furnished,Family,928,Apartment,2,Rajendra Nagar,8,Super Area,East,0,Garden/Park,Immediately,2,18000.0,1
+262,Semi-Furnished,Family,2500,Apartment,3,Manikonda,9,Super Area,East,0,Unknown,From Mar '22,3,42000.0,2
+263,Semi-Furnished,Family,1700,Apartment,3,Sanath Nagar,5,Super Area,East,1,Garden/Park,Immediately,3,35000.0,2
+264,Semi-Furnished,Family,1600,Apartment,3,Golden Tulip Estate,2,Carpet Area,North,2,Unknown,Immediately,3,35000.0,2
+265,Semi-Furnished,Bachelors,1650,Apartment,3,Symphony residency,3,Super Area,West,2,Unknown,Immediately,3,16000.0,0
+266,Unfurnished,Family,1198,Apartment,3,Kundanbagh,0,Carpet Area,East,0,Main Road,Immediately,2,19000.0,1
+267,Semi-Furnished,Bachelors,1140,Apartment,2,Bandlaguda Jagir,2,Super Area,Unknown,2,Garden/Park,Immediately,2,14000.0,0
+268,Semi-Furnished,Family,1850,Apartment,3,Kukatpally,2,Carpet Area,North,3,Garden/Park,Immediately,4,28000.0,1
+269,Furnished,Bachelors/Family,1000,Apartment,2,Kondapur,3,Carpet Area,North-East,2,Unknown,Immediately,2,19000.0,0
+270,Unfurnished,Family,900,Apartment,2,East Marredpally,2,Super Area,East,1,Unknown,Immediately,2,17000.0,1
+271,Furnished,Family,1200,Apartment,2,Alkapur Township,1,Carpet Area,Unknown,2,Unknown,Immediately,2,17000.0,1
+272,Semi-Furnished,Bachelors,1100,Apartment,3,sai nagar colony,5,Carpet Area,Unknown,1,Main Road,Immediately,2,14000.0,0
+273,Unfurnished,Family,1045,Apartment,3,Rajendra Nagar,2,Carpet Area,East,1,Garden/Park,Immediately,2,18000.0,1
+274,Unfurnished,Bachelors/Family,500,Apartment,1,Pragathi Nagar,1,Carpet Area,East,0,Unknown,Immediately,1,7500.0,0
+275,Furnished,Bachelors/Family,1545,House,3,Gachibowli,6,Carpet Area,East,1,Garden/Park,Immediately,3,35000.0,2
+276,Semi-Furnished,Bachelors,1100,Apartment,2,Deepthisri Nagar,1,Carpet Area,East,2,Garden/Park,From Mar '22,2,14000.0,0
+277,Unfurnished,Bachelors/Family,800,House,2,Mallapur-Balapur,0,Carpet Area,East,2,Unknown,Immediately,2,7000.0,1
+278,Unfurnished,Bachelors/Family,1100,Apartment,2,Gangaram,2,Carpet Area,East,1,Main Road,Immediately,2,12000.0,1
+279,Unfurnished,Bachelors,1800,House,2,Friends Colony,1,Carpet Area,West,2,Main Road,Immediately,2,22000.0,0
+280,Unfurnished,Family,850,House,2,Trimulgherry,0,Carpet Area,East,0,Main Road,Immediately,2,10000.0,2
+281,Semi-Furnished,Bachelors/Family,1350,Apartment,2,Kondapur,2,Carpet Area,West,2,Main Road,Immediately,2,25000.0,0
+282,Semi-Furnished,Bachelors/Family,3000,Villa,3,Gayatri Hills,0,Carpet Area,Unknown,1,Garden/Park,Immediately,3,50000.0,0
+283,Semi-Furnished,Bachelors/Family,2010,Apartment,3,Jubilee Hills,1,Carpet Area,East,2,Main Road,Immediately,3,55000.0,2
+284,Unfurnished,Bachelors,900,Apartment,2,Bowenpally,3,Carpet Area,East,1,Main Road,Immediately,2,11000.0,0
+285,Unfurnished,Bachelors/Family,850,Apartment,2,IAS Colony,1,Carpet Area,Unknown,1,Unknown,Immediately,2,14000.0,0
+286,Furnished,Bachelors,2100,Apartment,3,Madhapur,4,Carpet Area,East,2,Main Road,Immediately,3,45000.0,1
+287,Semi-Furnished,Family,1300,Apartment,3,Hyder Nagar,1,Carpet Area,East,2,Main Road,Immediately,3,22000.0,1
+288,Unfurnished,Bachelors/Family,1454,Apartment,3,Appa junction,11,Carpet Area,East,1,Garden/Park,Immediately,3,28500.0,0
+289,Semi-Furnished,Bachelors/Family,950,Apartment,2,Kondapur,4,Carpet Area,North-East,2,Main Road,Immediately,2,18000.0,1
+290,Semi-Furnished,Bachelors,2455,Apartment,3,Jubilee Hills,1,Carpet Area,East,2,Main Road,Immediately,3,55000.0,0
+291,Furnished,Family,1650,Apartment,3,Ayyappa Society,2,Carpet Area,Unknown,3,Main Road,Immediately,3,30000.0,1
+292,Unfurnished,Bachelors/Family,1200,House,2,Kapra,1,Carpet Area,East,1,Unknown,Immediately,2,8200.0,1
+293,Semi-Furnished,Bachelors,2100,Villa,3,Puppalaguda,0,Carpet Area,West,2,Main Road,Immediately,4,32000.0,0
+294,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Puppalaguda,2,Carpet Area,East,1,Main Road,Immediately,2,16000.0,1
+295,Unfurnished,Bachelors,874,Apartment,2,Shaikpet,1,Carpet Area,South,1,Main Road,Immediately,2,12500.0,0
+296,Unfurnished,Bachelors,700,House,2,Fathenagar,1,Carpet Area,East,1,Main Road,Immediately,2,8500.0,1
+297,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Pragathi Nagar,0,Carpet Area,East,2,Main Road,Immediately,2,12500.0,1
+298,Unfurnished,Family,800,House,2,Snehapuri Colony,0,Carpet Area,South,0,Unknown,Immediately,1,9000.0,1
+299,Semi-Furnished,Family,1500,Apartment,3,Kokapet,4,Carpet Area,West,3,Garden/Park,Immediately,3,22000.0,2
+300,Unfurnished,Bachelors,750,Apartment,2,Indira Nagar-Ramanthpur,1,Carpet Area,East,2,Unknown,Immediately,2,11000.0,0
+301,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Moti Nagar,3,Carpet Area,East,1,Main Road,Immediately,2,19500.0,1
+302,Semi-Furnished,Bachelors/Family,1800,Apartment,4,Chandanagar,3,Carpet Area,South-East,2,Garden/Park,Immediately,2,20000.0,1
+303,Semi-Furnished,Family,1500,House,3,Alkapur Township,1,Carpet Area,North,1,Garden/Park,Immediately,3,25000.0,4
+304,Semi-Furnished,Bachelors,800,House,2,Gayathri Nagar,1,Carpet Area,Unknown,1,Main Road,Immediately,2,15000.0,0
+305,Semi-Furnished,Bachelors/Family,2000,Penthouse,3,Banjara Hills,3,Carpet Area,West,3,Main Road,Immediately,3,50000.0,1
+306,Unfurnished,Bachelors,1000,Apartment,2,Kishan Bagh,2,Carpet Area,East,1,Main Road,Immediately,2,8000.0,0
+307,Semi-Furnished,Bachelors/Family,1660,Apartment,3,Manikonda,4,Carpet Area,East,0,Unknown,Immediately,3,23100.0,0
+308,Semi-Furnished,Bachelors/Family,1547,Apartment,3,Lingampally-Serilingampally,3,Super Area,North,2,Main Road,Immediately,2,23000.0,1
+309,Semi-Furnished,Family,1100,Apartment,2,Khaja Guda,3,Carpet Area,North-West,2,Main Road,Immediately,2,15000.0,1
+310,Unfurnished,Bachelors,1098,Apartment,2,Puppalaguda,4,Carpet Area,North-East,3,Main Road,Immediately,3,14500.0,0
+311,Unfurnished,Bachelors,1300,House,2,Gudimalkapur,1,Carpet Area,East,2,Main Road,Immediately,2,13000.0,0
+312,Semi-Furnished,Family,1900,Apartment,2,Old Alwal,2,Carpet Area,East,3,Main Road,Immediately,2,23000.0,1
+313,Semi-Furnished,Family,1300,Apartment,3,Sainikpuri,5,Carpet Area,East,0,Unknown,Immediately,3,17500.0,1
+314,Semi-Furnished,Bachelors/Family,2100,Apartment,3,Banjara Hills,1,Carpet Area,Unknown,2,Main Road,Immediately,3,70000.0,2
+315,Unfurnished,Bachelors,1765,Apartment,3,Manikonda,1,Carpet Area,East,2,Garden/Park,Immediately,3,25000.0,0
+316,Semi-Furnished,Bachelors,1575,Apartment,3,Rail Vihar,6,Carpet Area,East,1,Garden/Park,Immediately,3,20000.0,0
+317,Semi-Furnished,Bachelors/Family,2600,Villa,5,Kompally,0,Carpet Area,North-East,1,Main Road,Immediately,4,40000.0,1
+318,Semi-Furnished,Bachelors,1275,Apartment,3,Manikonda,3,Carpet Area,North-West,2,Main Road,Immediately,2,21000.0,1
+319,Semi-Furnished,Bachelors,1700,Apartment,3,Jubilee Hills,2,Carpet Area,East,2,Garden/Park,Immediately,3,40000.0,0
+320,Semi-Furnished,Bachelors/Family,4200,Villa,4,Kokapet,0,Carpet Area,North,2,Garden/Park,Immediately,4,75000.0,3
+321,Unfurnished,Bachelors,1050,Apartment,2,Bachupally,4,Carpet Area,East,2,Main Road,Immediately,2,15000.0,0
+322,Semi-Furnished,Bachelors/Family,2757,Apartment,3,Kavuri Hills,4,Carpet Area,North-East,4,Main Road,Immediately,3,55000.0,2
+323,Semi-Furnished,Bachelors/Family,1800,Apartment,3,Kokapet,5,Carpet Area,East,2,Main Road,Immediately,3,40000.0,1
+324,Semi-Furnished,Bachelors/Family,1330,House,2,OU Colony-Shaikpet,0,Carpet Area,East,0,Garden/Park,Immediately,2,15000.0,1
+325,Unfurnished,Bachelors/Family,900,Apartment,2,West Venkatapuram,2,Carpet Area,Unknown,2,Main Road,Immediately,2,11500.0,1
+326,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Gachibowli,3,Carpet Area,East,1,Unknown,Immediately,2,24064.0,0
+327,Semi-Furnished,Bachelors/Family,1758,Apartment,3,Gachibowli,5,Carpet Area,East,1,Garden/Park,Immediately,3,30000.0,2
+328,Unfurnished,Bachelors/Family,1080,Apartment,2,Chanda Nagar,2,Super Area,West,2,Garden/Park,Immediately,2,15000.0,0
+329,Semi-Furnished,Bachelors/Family,900,Apartment,2,Kompally,1,Carpet Area,West,1,Main Road,Immediately,2,17000.0,1
+330,Unfurnished,Bachelors/Family,1430,Apartment,3,Tellapur,3,Carpet Area,East,2,Unknown,Immediately,3,15000.0,0
+331,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Shamshiguda,3,Carpet Area,North,2,Main Road,Immediately,3,18000.0,1
+332,Semi-Furnished,Bachelors/Family,1630,Apartment,3,Alkapuri,5,Super Area,West,3,Main Road,Immediately,3,24000.0,1
+333,Unfurnished,Bachelors,600,House,2,Venkateshwara Nagar,1,Carpet Area,North,0,Unknown,Immediately,1,8000.0,1
+334,Semi-Furnished,Bachelors,2000,Apartment,3,Yapral,2,Carpet Area,East,4,Garden/Park,Immediately,3,22000.0,0
+335,Furnished,Bachelors/Family,1100,Villa,2,Rampally,0,Carpet Area,West,0,Unknown,Immediately,2,15000.0,1
+336,Semi-Furnished,Bachelors/Family,1200,Apartment,3,Pocharam,1,Super Area,Unknown,1,Unknown,Immediately,2,14000.0,1
+337,Semi-Furnished,Bachelors/Family,1800,Apartment,3,Nanakram Guda,11,Carpet Area,East,2,Unknown,Immediately,3,50000.0,2
+338,Unfurnished,Bachelors/Family,1100,House,2,Parvathapur,1,Carpet Area,West,0,Garden/Park,Immediately,2,10000.0,0
+339,Furnished,Bachelors/Family,1000,House,2,Kalyan Nagar-Erragadda,1,Carpet Area,South,2,Main Road,Immediately,3,25000.0,1
+340,Semi-Furnished,Bachelors/Family,1858,Apartment,3,Gachibowli,4,Super Area,Unknown,0,Unknown,Immediately,3,35000.0,0
+341,Semi-Furnished,Bachelors/Family,1550,House,4,Aminpur,0,Super Area,Unknown,0,Unknown,Immediately,3,15000.0,0
+342,Semi-Furnished,Bachelors,1200,Apartment,3,Gachibowli,25,Carpet Area,West,2,Garden/Park,Immediately,2,40000.0,0
+343,Semi-Furnished,Bachelors/Family,900,Apartment,2,Shirdi Sai Nagar,5,Carpet Area,West,2,Main Road,Immediately,2,15000.0,0
+344,Unfurnished,Bachelors,1900,Apartment,3,Tellapur,6,Carpet Area,West,1,Garden/Park,Immediately,4,23000.0,0
+345,Semi-Furnished,Bachelors,1300,Apartment,3,Miyapur,4,Carpet Area,West,2,Main Road,Immediately,2,18000.0,0
+346,Unfurnished,Bachelors/Family,1000,Apartment,2,Masab Tank,2,Super Area,Unknown,2,Unknown,Immediately,2,14000.0,0
+347,Unfurnished,Bachelors,1200,House,2,Kishan Guda,1,Carpet Area,East,2,Main Road,Immediately,2,11000.0,0
+348,Semi-Furnished,Family,1400,Apartment,3,Dr A.S. Rao Nagar,5,Carpet Area,Unknown,2,Main Road,Immediately,3,12500.0,1
+349,Semi-Furnished,Bachelors,900,Apartment,2,Addagutta Society,1,Carpet Area,Unknown,1,Unknown,Immediately,2,15000.0,0
+350,Semi-Furnished,Bachelors/Family,3000,Villa,3,Kompally,0,Super Area,Unknown,0,Main Road,Immediately,3,26000.0,1
+351,Unfurnished,Bachelors/Family,950,Apartment,2,Boduppal,3,Carpet Area,East,1,Unknown,Immediately,2,8500.0,0
+352,Unfurnished,Bachelors,1450,Villa,2,Beeramguda,0,Carpet Area,East,0,Main Road,From Mar '22,2,14000.0,0
+353,Semi-Furnished,Family,800,Apartment,2,NRSA colony,1,Carpet Area,North,1,Main Road,Immediately,2,12000.0,0
+354,Semi-Furnished,Family,1430,Apartment,3,Gangaram,2,Carpet Area,East,1,Garden/Park,Immediately,3,22000.0,1
+355,Semi-Furnished,Bachelors/Family,1685,Apartment,3,Gachibowli,5,Super Area,West,2,Garden/Park,Immediately,3,35000.0,2
+356,Unfurnished,Bachelors/Family,900,House,2,Hari Hara Puram,0,Super Area,East,0,Unknown,Immediately,2,9500.0,0
+357,Unfurnished,Bachelors,911,Apartment,2,Saidabad Colony,0,Carpet Area,East,2,Unknown,Immediately,2,15000.0,0
+358,Unfurnished,Bachelors,1160,Apartment,2,Miyapur,9,Super Area,West,2,Garden/Park,Immediately,2,20000.0,0
+359,Furnished,Bachelors,970,Apartment,2,Quthbullapur,1,Super Area,North,1,Unknown,Immediately,2,13500.0,0
+360,Semi-Furnished,Bachelors,2200,Apartment,3,Whitefields,4,Super Area,Unknown,2,Main Road,Immediately,3,29000.0,0
+361,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Kukatpally,1,Super Area,East,3,Unknown,Immediately,3,20000.0,0
+362,Unfurnished,Bachelors,1500,Apartment,3,Hafeezpet,7,Carpet Area,North-East,2,Garden/Park,Immediately,2,28000.0,0
+363,Semi-Furnished,Bachelors,1260,Apartment,2,Begumpet,1,Carpet Area,East,2,Unknown,Immediately,2,25000.0,1
+364,Unfurnished,Bachelors,1740,Apartment,3,Gachibowli,6,Super Area,East,2,Garden/Park,Immediately,3,36500.0,0
+365,Unfurnished,Bachelors/Family,3500,Villa,3,Whitefields,0,Super Area,Unknown,0,Garden/Park,Immediately,3,70000.0,0
+366,Unfurnished,Family,450,Apartment,1,Chintal,2,Carpet Area,East,0,Main Road,Immediately,1,6500.0,0
+367,Semi-Furnished,Family,1015,Apartment,2,Bachupally,2,Carpet Area,West,2,Garden/Park,Immediately,1,14000.0,1
+368,Unfurnished,Family,900,Apartment,1,Aminpur,1,Carpet Area,East,0,Main Road,Immediately,1,8500.0,0
+369,Unfurnished,Bachelors/Family,900,Apartment,2,Puppalaguda,4,Carpet Area,North-West,1,Main Road,Immediately,2,11000.0,1
+370,Unfurnished,Bachelors,500,House,1,Saroor Nagar West,2,Carpet Area,East,1,Unknown,Immediately,1,6000.0,0
+371,Semi-Furnished,Bachelors/Family,4800,House,5,Jubilee Hills,0,Carpet Area,North,4,Main Road,Immediately,5,300000.0,0
+372,Semi-Furnished,Bachelors,950,Apartment,2,Ameerpet,3,Carpet Area,North-East,2,Main Road,Immediately,2,18000.0,0
+373,Unfurnished,Bachelors/Family,1300,House,2,Alkapur Township,0,Carpet Area,South-East,1,Main Road,Immediately,2,13000.0,0
+374,Unfurnished,Bachelors,1150,House,2,Attapur,3,Carpet Area,East,1,Unknown,Immediately,2,13000.0,0
+375,Semi-Furnished,Family,1520,Apartment,3,Khaja Guda,7,Carpet Area,East,3,Main Road,Immediately,3,28000.0,2
+376,Semi-Furnished,Bachelors/Family,1000,House,2,Moosa Ram Bagh,1,Carpet Area,North,2,Unknown,Immediately,2,13000.0,0
+377,Semi-Furnished,Family,1574,Apartment,3,RTC Colony-Chandanagar,2,Carpet Area,North,1,Main Road,Immediately,2,20000.0,1
+378,Semi-Furnished,Bachelors,1175,Apartment,2,Kukatpally Housing Board Colony,5,Carpet Area,North,1,Main Road,Immediately,1,19000.0,0
+379,Semi-Furnished,Bachelors,900,House,2,Banjara Hills,0,Carpet Area,Unknown,0,Main Road,Immediately,2,18000.0,0
+380,Furnished,Bachelors/Family,930,Apartment,2,Brindavan Colony-Toli Chowki,1,Carpet Area,East,1,Unknown,Immediately,2,18000.0,0
+381,Semi-Furnished,Bachelors/Family,1000,House,2,Puppalaguda,0,Carpet Area,East,0,Unknown,Immediately,2,14000.0,0
+382,Semi-Furnished,Bachelors,1100,House,2,Kukatpally,0,Super Area,East,1,Garden/Park,Immediately,3,18500.0,1
+383,Semi-Furnished,Family,1650,Apartment,3,Financial District,2,Carpet Area,West,3,Main Road,Immediately,3,65000.0,2
+384,Semi-Furnished,Bachelors/Family,3000,Villa,3,Hydershakote,0,Carpet Area,East,2,Unknown,Immediately,4,50000.0,0
+385,Semi-Furnished,Bachelors/Family,1120,House,2,Vidya Nagar,3,Carpet Area,East,1,Unknown,From Mar '22,2,24500.0,0
+386,Semi-Furnished,Family,2000,Apartment,3,Gachibowli,8,Carpet Area,West,2,Garden/Park,Immediately,3,45000.0,2
+387,Unfurnished,Bachelors/Family,1400,Apartment,3,Nallagandla,2,Carpet Area,West,2,Garden/Park,From Mar '22,3,22000.0,0
+388,Semi-Furnished,Bachelors/Family,1050,Apartment,2,Mehdipatnam,1,Carpet Area,North-East,1,Main Road,Immediately,2,15000.0,0
+389,Unfurnished,Bachelors,900,House,2,TNGOS Colony Phase1,2,Carpet Area,East,0,Unknown,Immediately,2,15000.0,0
+390,Semi-Furnished,Bachelors/Family,870,Apartment,3,Gachibowli,3,Carpet Area,North-East,1,Main Road,Immediately,2,33000.0,1
+391,Semi-Furnished,Bachelors/Family,930,Apartment,2,Kukatpally,3,Carpet Area,East,2,Garden/Park,From Mar '22,2,17000.0,1
+392,Unfurnished,Bachelors,1875,Apartment,3,Shaikpet,12,Super Area,East,1,Unknown,Immediately,2,42000.0,2
+393,Unfurnished,Bachelors/Family,1305,Apartment,2,Nallagandla,11,Super Area,Unknown,1,Garden/Park,Immediately,2,27000.0,0
+394,Semi-Furnished,Bachelors,1672,Apartment,3,Kukatpally,24,Super Area,East,3,Garden/Park,Immediately,3,43000.0,0
+395,Semi-Furnished,Bachelors,1150,Apartment,2,Narayanguda,3,Carpet Area,East,1,Main Road,Immediately,2,20000.0,1
+396,Unfurnished,Bachelors/Family,1850,Apartment,3,Somajiguda,3,Carpet Area,South,3,Unknown,Immediately,3,31000.0,0
+397,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Hitech City,2,Carpet Area,East,2,Unknown,Immediately,2,24000.0,1
+398,Unfurnished,Bachelors,3722,Apartment,4,Somajiguda,5,Super Area,East,1,Garden/Park,Immediately,4,58000.0,0
+399,Semi-Furnished,Bachelors/Family,1400,House,3,Vidyuth Nagar,0,Super Area,Unknown,0,Unknown,Immediately,3,12500.0,0
+400,Semi-Furnished,Family,1250,House,2,Madhapur,1,Carpet Area,North-East,4,Main Road,Immediately,2,15000.0,1
+401,Semi-Furnished,Family,3400,Apartment,4,Banjara Hills,3,Carpet Area,East,1,Main Road,Immediately,4,75000.0,2
+402,Unfurnished,Family,1000,House,2,Nalanda Nagar,0,Carpet Area,North-East,0,Garden/Park,Immediately,2,15000.0,1
+403,Furnished,Family,1972,Apartment,3,Kokapet,2,Carpet Area,East,3,Main Road,Immediately,3,42000.0,2
+404,Semi-Furnished,Family,1781,Apartment,3,Khaja Guda,4,Carpet Area,Unknown,3,Main Road,Immediately,3,32000.0,1
+405,Semi-Furnished,Bachelors,1940,Apartment,3,Narsingi,1,Super Area,East,3,Garden/Park,Immediately,3,32000.0,0
+406,Semi-Furnished,Bachelors/Family,3000,Apartment,3,Banjara Hills,2,Super Area,East,2,Main Road,Immediately,4,47000.0,0
+407,Semi-Furnished,Bachelors/Family,1410,Apartment,3,Appa junction,13,Super Area,Unknown,1,Unknown,Immediately,2,20000.0,0
+408,Unfurnished,Bachelors/Family,1400,House,2,Bandlaguda Jagir,2,Super Area,East,3,Garden/Park,Immediately,3,12000.0,0
+409,Unfurnished,Bachelors/Family,1690,Apartment,3,Manikonda,3,Carpet Area,East,2,Unknown,Immediately,3,30000.0,0
+410,Semi-Furnished,Family,1342,Apartment,2,Gachibowli,0,Super Area,South,0,Garden/Park,Immediately,2,30000.0,1
+411,Unfurnished,Bachelors/Family,550,Apartment,1,Miyapur,2,Carpet Area,East,0,Main Road,Immediately,1,8500.0,0
+412,Semi-Furnished,Bachelors,2500,Villa,4,Khaja Guda,0,Carpet Area,West,2,Pool,Immediately,4,75000.0,2
+413,Unfurnished,Bachelors,1000,House,2,Venkateshwara Colony Saroor Nagar,0,Carpet Area,East,2,Unknown,Immediately,2,12000.0,0
+414,Semi-Furnished,Bachelors,2300,Apartment,3,APHB Colony Gachibowli,1,Carpet Area,East,1,Garden/Park,Immediately,3,26000.0,0
+415,Furnished,Bachelors,2525,Apartment,3,Serilingampally,9,Carpet Area,East,2,Garden/Park,Immediately,4,75000.0,2
+416,Unfurnished,Bachelors,1800,Villa,3,Beeramguda,0,Super Area,West,0,Garden/Park,Immediately,3,18000.0,0
+417,Semi-Furnished,Bachelors,1600,Apartment,3,Gopanapalli,7,Carpet Area,East,1,Garden/Park,Immediately,3,32000.0,2
+418,Semi-Furnished,Family,1025,Apartment,2,Safilguda,2,Carpet Area,West,1,Unknown,Immediately,2,10000.0,0
+419,Unfurnished,Bachelors,1050,Apartment,2,Kothapet,2,Carpet Area,West,2,Main Road,Immediately,2,14000.0,0
+420,Semi-Furnished,Bachelors/Family,1225,Apartment,2,Alkapur Township,4,Super Area,Unknown,0,Unknown,Immediately,2,24000.0,0
+421,Unfurnished,Family,300,Apartment,3,Miyapur,2,Super Area,Unknown,0,Unknown,Immediately,3,21000.0,0
+422,Semi-Furnished,Family,1300,Apartment,2,Upperpally,2,Carpet Area,North,2,Unknown,Immediately,2,11500.0,1
+423,Semi-Furnished,Bachelors/Family,1800,House,2,Saidabad,1,Carpet Area,Unknown,3,Unknown,Immediately,2,16000.0,0
+424,Unfurnished,Bachelors,685,Apartment,2,Chandanagar,0,Carpet Area,South,1,Main Road,Immediately,1,15000.0,0
+425,Unfurnished,Bachelors,1200,House,2,Hyderabad,1,Carpet Area,East,1,Main Road,Immediately,3,8500.0,0
+426,Unfurnished,Bachelors,1165,Apartment,2,South Kamala Nagar,3,Super Area,North-East,0,Main Road,Immediately,2,13000.0,1
+427,Semi-Furnished,Family,1050,Apartment,2,Madhura Hills Shaikpet,3,Carpet Area,North,2,Main Road,Immediately,2,20000.0,2
+428,Unfurnished,Bachelors/Family,888,Apartment,2,DLF Cyber City,3,Carpet Area,North-East,1,Unknown,Immediately,2,25000.0,0
+429,Semi-Furnished,Family,4300,Villa,4,Mokila,0,Carpet Area,Unknown,2,Unknown,Immediately,4,40000.0,0
+430,Furnished,Bachelors/Family,1230,House,2,Alwal,1,Super Area,North-West,2,Unknown,Immediately,2,15000.0,1
+431,Unfurnished,Bachelors/Family,200,Penthouse,1,Kompally,4,Super Area,Unknown,0,Unknown,Immediately,1,5500.0,0
+432,Semi-Furnished,Family,1265,Apartment,3,Dattatreya Colony,3,Carpet Area,East,2,Unknown,Immediately,2,14000.0,0
+433,Unfurnished,Bachelors/Family,2664,House,3,Aminpur,0,Carpet Area,Unknown,0,Unknown,Immediately,3,16000.0,0
+434,Semi-Furnished,Bachelors/Family,2500,Villa,4,Kokapet,0,Super Area,Unknown,0,Unknown,Immediately,4,55000.0,0
+435,Semi-Furnished,Family,0,Apartment,3,Moti Nagar,1,Super Area,East,2,Unknown,Immediately,3,22500.0,1
+436,Semi-Furnished,Bachelors/Family,3800,Villa,3,Gopanapalli,0,Carpet Area,Unknown,3,Unknown,Immediately,4,60000.0,0
+437,Semi-Furnished,Bachelors,1870,Apartment,3,Siri construction,3,Super Area,East,1,Unknown,Immediately,3,20000.0,0
+438,Semi-Furnished,Bachelors,900,Apartment,1,K P H B Phase 3,0,Carpet Area,Unknown,0,Unknown,Immediately,1,17000.0,1
+439,Semi-Furnished,Bachelors/Family,2300,Apartment,3,Gachibowli,7,Super Area,East,2,Garden/Park,Immediately,3,35000.0,0
+440,Unfurnished,Bachelors/Family,1100,Apartment,2,Kismatpur,0,Carpet Area,West,2,Garden/Park,Immediately,2,9500.0,0
+441,Semi-Furnished,Bachelors/Family,1350,Apartment,2,Ghatkesar,4,Carpet Area,West,1,Unknown,Immediately,3,14000.0,2
+442,Semi-Furnished,Family,1500,Apartment,3,Chanda Nagar,3,Carpet Area,East,2,Main Road,Immediately,3,20000.0,2
+443,Unfurnished,Bachelors/Family,1400,Apartment,3,KPHB Road,5,Carpet Area,East,1,Garden/Park,Immediately,3,20000.0,0
+444,Semi-Furnished,Bachelors/Family,1400,Apartment,3,Lingampally-Serilingampally,2,Carpet Area,East,2,Unknown,Immediately,2,20000.0,0
+445,Semi-Furnished,Bachelors/Family,1900,Apartment,3,Financial District,8,Super Area,East,2,Garden/Park,Immediately,3,41000.0,2
+446,Semi-Furnished,Bachelors,1655,Apartment,3,Narsingi,5,Carpet Area,West,1,Garden/Park,Immediately,3,28000.0,0
+447,Furnished,Bachelors/Family,2050,Apartment,3,Tellapur,2,Carpet Area,West,1,Garden/Park,Immediately,3,40000.0,2
+448,Semi-Furnished,Family,1400,Apartment,3,Somajiguda,3,Super Area,East,0,Unknown,Immediately,2,26000.0,0
+449,Furnished,Bachelors/Family,2200,Apartment,3,Attapur,3,Super Area,North,2,Main Road,Immediately,3,30000.0,1
+450,Furnished,Family,1602,Apartment,3,Toli Chowki,3,Super Area,West,0,Main Road,Immediately,3,27000.0,1
+451,Semi-Furnished,Bachelors/Family,2100,Apartment,4,Kokapet,5,Carpet Area,North-East,2,Garden/Park,Immediately,3,40000.0,1
+452,Unfurnished,Bachelors,1200,Apartment,3,Sun City,1,Carpet Area,West,2,Unknown,Immediately,2,14000.0,0
+453,Unfurnished,Family,900,House,2,GREENHILLS COLONY MOULALI,2,Carpet Area,North-East,2,Unknown,Immediately,2,9000.0,0
+454,Semi-Furnished,Bachelors/Family,1300,Apartment,3,Manikonda,0,Carpet Area,East,2,Main Road,Immediately,2,25000.0,1
+455,Semi-Furnished,Family,7300,Villa,5,Kokapet,0,Super Area,East,3,Garden/Park,Immediately,6,300000.0,4
+456,Unfurnished,Bachelors/Family,1200,House,3,Medchal,1,Super Area,Unknown,0,Unknown,Immediately,3,11000.0,0
+457,Unfurnished,Bachelors,1100,House,2,Vidya Nagar,2,Super Area,East,1,Main Road,Immediately,3,13500.0,0
+458,Semi-Furnished,Bachelors/Family,1530,House,3,Miyapur,2,Carpet Area,East,1,Main Road,Immediately,2,21000.0,1
+459,Unfurnished,Bachelors,0,Apartment,2,Medchal Road,1,Super Area,North,1,Main Road,Immediately,2,10000.0,1
+460,Semi-Furnished,Bachelors/Family,1015,Apartment,2,Mayuri Nagar,4,Carpet Area,Unknown,1,Garden/Park,Immediately,2,13000.0,0
+461,Semi-Furnished,Bachelors,1200,House,3,Trimulgherry,1,Carpet Area,East,2,Main Road,Immediately,3,14000.0,0
+462,Unfurnished,Bachelors,700,Apartment,2,Badangpet,1,Carpet Area,East,1,Unknown,Immediately,2,10000.0,0
+463,Furnished,Bachelors/Family,1039,Apartment,2,Narsingi,2,Carpet Area,East,1,Pool,Immediately,2,26000.0,0
+464,Furnished,Family,1250,Villa,2,Mallampet,0,Carpet Area,East,0,Main Road,Immediately,2,13500.0,0
+465,Semi-Furnished,Bachelors/Family,1425,Villa,3,Rajendra Nagar,0,Super Area,East,1,Main Road,Immediately,3,20000.0,1
+466,Unfurnished,Bachelors,750,House,2,Gudi Malkapur,1,Carpet Area,South,2,Unknown,Immediately,2,10000.0,0
+467,Semi-Furnished,Bachelors/Family,1400,Apartment,2,Hyderguda,4,Carpet Area,Unknown,3,Unknown,Immediately,2,21000.0,0
+468,Semi-Furnished,Bachelors/Family,1200,House,2,Badangpet,0,Carpet Area,Unknown,0,Unknown,Immediately,2,7500.0,0
+469,Semi-Furnished,Bachelors/Family,1700,Apartment,3,Kondapur,1,Carpet Area,Unknown,2,Unknown,Immediately,3,34000.0,0
+470,Unfurnished,Bachelors/Family,1100,House,3,Mehdipatnam,1,Super Area,East,1,Unknown,Immediately,2,17000.0,1
+471,Semi-Furnished,Family,1800,House,3,Hakimpet,0,Carpet Area,South,0,Main Road,Immediately,4,20000.0,2
+472,Semi-Furnished,Bachelors/Family,2000,House,3,Ramachandrapuram-Bhel Township,1,Carpet Area,West,2,Garden/Park,Immediately,3,25000.0,0
+473,Semi-Furnished,Bachelors,1200,Apartment,2,Tarnaka,3,Carpet Area,North,2,Pool,Immediately,2,18000.0,0
+474,Semi-Furnished,Bachelors/Family,2100,Apartment,3,Kondapur,1,Super Area,Unknown,0,Unknown,Immediately,3,30000.0,0
+475,Semi-Furnished,Bachelors/Family,1784,Apartment,3,Kokapet,2,Carpet Area,North,2,Garden/Park,Immediately,3,25000.0,0
+476,Furnished,Bachelors/Family,2400,House,3,Maruthi Nagar-Attapur,1,Carpet Area,West,4,Main Road,Immediately,4,42000.0,1
+477,Unfurnished,Bachelors/Family,1100,Apartment,2,BHEL,3,Carpet Area,East,1,Unknown,Immediately,2,10000.0,0
+478,Semi-Furnished,Bachelors/Family,1700,Apartment,3,Hitech City,2,Carpet Area,South,2,Unknown,Immediately,3,30000.0,0
+479,Furnished,Bachelors/Family,1500,Apartment,3,Patrika Nagar,5,Carpet Area,East,2,Main Road,Immediately,2,37000.0,2
+480,Unfurnished,Family,1600,Apartment,3,Manikonda,6,Carpet Area,East,2,Pool,Immediately,3,37000.0,2
+481,Unfurnished,Bachelors,900,House,2,Saroor Nagar East,0,Carpet Area,North,1,Unknown,Immediately,2,11000.0,0
+482,Unfurnished,Bachelors/Family,1600,Apartment,3,Begumpet,5,Carpet Area,East,2,Garden/Park,Immediately,3,78000.0,0
+483,Semi-Furnished,Bachelors/Family,950,House,2,Khairatabad,0,Carpet Area,East,2,Unknown,Immediately,2,16000.0,1
+484,Semi-Furnished,Bachelors/Family,500,House,2,Kamalapuri Colony,0,Carpet Area,East,2,Unknown,Immediately,2,25000.0,0
+485,Unfurnished,Bachelors/Family,1500,Apartment,3,Attapur,3,Carpet Area,East,3,Unknown,Immediately,2,20000.0,0
+486,Semi-Furnished,Bachelors/Family,170,Villa,3,Peerzadiguda,0,Carpet Area,East,2,Main Road,Immediately,3,25000.0,1
+487,Semi-Furnished,Bachelors/Family,1100,House,2,TNGOS Colony Phase1,1,Carpet Area,North,1,Main Road,Immediately,2,21000.0,1
+488,Unfurnished,Family,1800,Apartment,4,Champapet,0,Carpet Area,East,2,Unknown,Immediately,2,18000.0,1
+489,Semi-Furnished,Bachelors/Family,1600,Apartment,3,Kalyan Nagar,2,Carpet Area,North,0,Main Road,Immediately,2,20000.0,1
+490,Semi-Furnished,Family,1650,Apartment,3,Gopanapalli Thanda,1,Super Area,West,2,Garden/Park,Immediately,3,30000.0,2
+491,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Begumpet,6,Super Area,Unknown,0,Unknown,Immediately,2,20000.0,0
+492,Semi-Furnished,Bachelors/Family,2000,Apartment,3,Hafeezpet,8,Super Area,Unknown,0,Unknown,Immediately,3,30000.0,0
+493,Semi-Furnished,Family,1200,House,2,Kukatpally,0,Carpet Area,East,1,Main Road,Immediately,2,18000.0,1
+494,Furnished,Bachelors,1750,Apartment,3,Kokapet,2,Carpet Area,North,2,Unknown,Immediately,3,30000.0,0
+495,Semi-Furnished,Bachelors/Family,2640,Apartment,4,Gachibowli,1,Carpet Area,East,3,Pool,From Feb '22,4,50000.0,4
+496,Semi-Furnished,Family,1134,Apartment,2,Attapur,2,Super Area,East,0,Unknown,Immediately,2,17000.0,1
+497,Furnished,Bachelors/Family,1000,Apartment,2,Suchitra Circle,2,Super Area,Unknown,0,Unknown,Immediately,2,25000.0,1
+498,Semi-Furnished,Family,1890,Apartment,3,Gachibowli,5,Super Area,East,0,Unknown,Immediately,3,38000.0,2
+499,Semi-Furnished,Family,1700,House,2,Habsiguda,0,Carpet Area,North,0,Garden/Park,Immediately,2,12000.0,1
+500,Semi-Furnished,Bachelors/Family,1725,Apartment,3,Kondapur,5,Carpet Area,Unknown,2,Unknown,Immediately,3,22500.0,1
+501,Semi-Furnished,Family,1550,Apartment,3,Bachupally,7,Carpet Area,West,2,Garden/Park,Immediately,3,30000.0,2
+502,Unfurnished,Family,815,Apartment,2,Lingampally-Serilingampally,1,Carpet Area,East,1,Garden/Park,Immediately,2,12500.0,1
+503,Unfurnished,Bachelors,850,Apartment,2,Seetaphalmandi,2,Carpet Area,North,1,Main Road,Immediately,2,11500.0,0
+504,Semi-Furnished,Family,800,Penthouse,2,Chandanagar,2,Carpet Area,North-East,1,Unknown,Immediately,2,12500.0,0
+505,Unfurnished,Family,1500,Apartment,3,Toli Chowki,5,Carpet Area,Unknown,0,Unknown,Immediately,2,22000.0,0
+506,Semi-Furnished,Family,2083,Apartment,3,Kokapet,4,Super Area,East,0,Unknown,Immediately,4,40000.0,2
+507,Unfurnished,Family,1000,Apartment,2,Uppal,3,Carpet Area,East,2,Unknown,Immediately,2,13000.0,2
+508,Semi-Furnished,Bachelors/Family,1370,House,2,Dammaiguda,0,Carpet Area,South-West,2,Unknown,Immediately,2,8500.0,0
+509,Unfurnished,Bachelors/Family,1400,House,3,Neknampur,1,Carpet Area,East,1,Main Road,Immediately,2,12500.0,0
+510,Semi-Furnished,Bachelors/Family,2200,House,3,Himayat Sagar Village,2,Carpet Area,Unknown,1,Unknown,Immediately,3,36000.0,0
+511,Semi-Furnished,Family,1285,Apartment,2,Manikonda,2,Super Area,West,2,Pool,Immediately,2,22000.0,1
+512,Unfurnished,Bachelors,1200,Apartment,3,Bowrampet,1,Carpet Area,West,2,Unknown,Immediately,2,13500.0,0
+513,Unfurnished,Bachelors,950,House,2,Manneguda,1,Carpet Area,Unknown,0,Unknown,Immediately,2,9000.0,0
+514,Unfurnished,Family,1300,House,2,Dammaiguda,2,Carpet Area,West,1,Unknown,Immediately,2,10000.0,0
+515,Unfurnished,Bachelors/Family,750,Apartment,2,Mythri Nagar,2,Carpet Area,East,2,Main Road,Immediately,2,10000.0,1
+516,Furnished,Bachelors/Family,880,Apartment,2,Sainikpuri,2,Super Area,Unknown,0,Unknown,Immediately,2,15000.0,0
+517,Unfurnished,Family,900,House,2,Hasthinapuram,2,Carpet Area,Unknown,0,Unknown,Immediately,2,9500.0,0
+518,Semi-Furnished,Bachelors,1350,Apartment,3,Brindavan Colony-Toli Chowki,3,Super Area,West,2,Unknown,Immediately,2,17500.0,4
+519,Semi-Furnished,Family,1625,Apartment,3,Madinaguda,5,Carpet Area,East,2,Main Road,From Mar '22,3,26000.0,1
+520,Semi-Furnished,Bachelors,1300,House,3,Neredmet,0,Carpet Area,West,1,Main Road,Immediately,3,25000.0,0
+521,Unfurnished,Bachelors/Family,1380,Apartment,2,Adibatla,3,Super Area,West,2,Garden/Park,Immediately,2,14000.0,0
+522,Semi-Furnished,Family,1480,House,3,Santosh Nagar-Mehdipatnam,1,Carpet Area,South,4,Main Road,Immediately,3,26000.0,1
+523,Semi-Furnished,Family,1050,House,2,Beeramguda,1,Carpet Area,West,3,Unknown,From Apr '22,2,9000.0,1
+524,Semi-Furnished,Bachelors/Family,1275,Apartment,3,Nalanda Nagar,1,Carpet Area,East,2,Main Road,Immediately,3,20000.0,1
+525,Semi-Furnished,Bachelors/Family,1800,House,3,Kompally,2,Carpet Area,Unknown,2,Unknown,Immediately,3,32000.0,0
+526,Unfurnished,Bachelors,1000,Apartment,2,Upperpally,2,Carpet Area,South,1,Unknown,Immediately,2,8500.0,0
+527,Unfurnished,Bachelors/Family,1100,Apartment,2,Navodaya Colony,4,Carpet Area,East,1,Garden/Park,Immediately,2,22000.0,2
+528,Furnished,Family,1560,Apartment,3,Champapet,5,Super Area,East,1,Garden/Park,Immediately,3,18000.0,5
+529,Unfurnished,Bachelors/Family,1050,Apartment,2,ALIND Employees Colony,4,Super Area,East,0,Unknown,Immediately,2,15000.0,4
+530,Semi-Furnished,Bachelors,1800,Apartment,3,Kokapet,5,Carpet Area,East,2,Garden/Park,Immediately,3,42000.0,0
+531,Semi-Furnished,Bachelors,500,Apartment,3,Kondapur,1,Carpet Area,West,3,Main Road,Immediately,3,28000.0,0
+532,Unfurnished,Family,1400,House,3,Yapral,0,Carpet Area,West,0,Main Road,Immediately,2,15000.0,0
+533,Semi-Furnished,Bachelors/Family,1760,Apartment,3,Film Nagar,0,Carpet Area,North,3,Garden/Park,Immediately,3,32000.0,1
+534,Semi-Furnished,Bachelors/Family,920,House,2,Nagarjuna Nagar colony,2,Super Area,Unknown,0,Unknown,Immediately,2,17500.0,0
+535,Furnished,Bachelors/Family,1140,Apartment,2,Pragathi Nagar,5,Super Area,North,0,Main Road,From Mar '22,2,14000.0,3
+536,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Upparpally,1,Super Area,Unknown,2,Unknown,Immediately,3,16000.0,0
+537,Unfurnished,Bachelors,1300,Apartment,3,Vanasthalipuram,3,Carpet Area,North,3,Garden/Park,Immediately,3,21000.0,0
+538,Unfurnished,Bachelors/Family,1118,Apartment,2,Appa junction,10,Carpet Area,West,2,Unknown,Immediately,2,22000.0,0
+539,Semi-Furnished,Bachelors/Family,1790,Apartment,3,Nizampet,2,Super Area,Unknown,0,Unknown,Immediately,3,13000.0,0
+540,Semi-Furnished,Family,2400,Apartment,3,Appa junction,1,Carpet Area,North,0,Garden/Park,Immediately,3,35000.0,2
+541,Furnished,Bachelors/Family,1000,House,2,Roma Enclave,0,Carpet Area,Unknown,1,Unknown,Immediately,2,6000.0,0
+542,Semi-Furnished,Bachelors/Family,605,Apartment,2,Miapur,2,Carpet Area,Unknown,1,Unknown,Immediately,1,8000.0,0
+543,Unfurnished,Bachelors,2000,Apartment,3,Madhapur,4,Super Area,East,0,Garden/Park,Immediately,4,32000.0,0
+544,Furnished,Bachelors/Family,2100,Apartment,3,Uppal,1,Carpet Area,Unknown,3,Garden/Park,Immediately,3,1200.0,0
+545,Semi-Furnished,Bachelors/Family,1275,Apartment,3,Nagarjuna Nagar,3,Carpet Area,Unknown,1,Unknown,Immediately,2,20000.0,0
+546,Unknown,Bachelors/Family,1300,Apartment,3,Chanda Nagar,3,Carpet Area,Unknown,2,Unknown,Immediately,2,15000.0,0
+547,Semi-Furnished,Bachelors/Family,1784,Apartment,3,Appa junction,15,Super Area,Unknown,0,Unknown,Immediately,3,28000.0,0
+548,Unfurnished,Bachelors,500,Apartment,1,Allwyn Colony,2,Super Area,West,1,Unknown,Immediately,1,8000.0,0
+549,Unfurnished,Bachelors,1550,Apartment,3,Vishali Nagar,3,Carpet Area,West,2,Garden/Park,Immediately,3,19000.0,0
+550,Semi-Furnished,Family,1400,Apartment,3,Uppal,5,Carpet Area,West,2,Unknown,Immediately,3,20000.0,1
+551,Semi-Furnished,Bachelors/Family,787,Apartment,3,Rajendra Nagar,1,Carpet Area,West,1,Main Road,Immediately,2,21740.0,1
+552,Semi-Furnished,Bachelors,90,House,2,Bowenpally,1,Carpet Area,East,0,Main Road,Immediately,2,12500.0,0
+553,Unfurnished,Family,1000,Apartment,2,Miyapur,0,Carpet Area,East,2,Unknown,Immediately,2,18000.0,0
+554,Semi-Furnished,Family,1000,House,2,Nagole,1,Carpet Area,East,3,Main Road,Immediately,2,16000.0,0
+555,Unfurnished,Bachelors,500,House,1,Old Bowenpally,2,Carpet Area,North-East,1,Main Road,Immediately,1,7500.0,1
+556,Semi-Furnished,Bachelors/Family,3000,House,4,Mouryas Ranga Prasad Avenue,0,Super Area,Unknown,0,Unknown,Immediately,4,60000.0,0
+557,Semi-Furnished,Bachelors/Family,900,House,2,Begumpet,0,Carpet Area,South,0,Unknown,Immediately,2,20000.0,0
+558,Semi-Furnished,Bachelors,1180,Apartment,2,Beeramguda,4,Carpet Area,North,1,Unknown,Immediately,2,15000.0,0
+559,Unfurnished,Family,1800,House,5,Toli Chowki,0,Super Area,East,2,Garden/Park,Immediately,4,20000.0,1
+560,Unfurnished,Bachelors,1400,Apartment,3,Vidyanagar,5,Carpet Area,North,3,Unknown,Immediately,2,20000.0,1
+561,Semi-Furnished,Bachelors,2300,House,3,Vikrampuri,1,Carpet Area,South,2,Garden/Park,Immediately,3,37000.0,0
+562,Semi-Furnished,Bachelors/Family,1750,House,4,Tolochouki,3,Carpet Area,East,3,Unknown,Immediately,3,30000.0,1
+563,Unfurnished,Bachelors/Family,1100,House,2,Beeramguda,1,Carpet Area,East,2,Main Road,Immediately,2,11000.0,0
+564,Semi-Furnished,Bachelors/Family,1200,Apartment,2,Shamshabad,2,Carpet Area,North,2,Main Road,Immediately,2,8500.0,1
+565,Semi-Furnished,Family,1800,Apartment,3,Nallagandla,5,Carpet Area,North,3,Main Road,Immediately,3,27500.0,2
+566,Semi-Furnished,Family,1800,House,3,MLA Colony,1,Super Area,North,3,Main Road,Immediately,3,26000.0,1
+567,Furnished,Bachelors,2200,Apartment,3,Madhapur,1,Carpet Area,South,3,Main Road,Immediately,3,32000.0,2
+568,Furnished,Bachelors,100,Apartment,1,Prashasan Nagar,0,Carpet Area,North-East,1,Main Road,Immediately,1,32000.0,0
+569,Unfurnished,Bachelors/Family,750,Apartment,2,Bharathi Nagar,0,Carpet Area,North-East,0,Main Road,Immediately,2,8000.0,0
+570,Unfurnished,Bachelors/Family,900,Apartment,2,Miyapur,2,Carpet Area,West,1,Main Road,Immediately,2,15000.0,0
+571,Unfurnished,Bachelors/Family,500,House,1,Vanasthalipuram,2,Carpet Area,North,0,Main Road,Immediately,1,6000.0,0
+572,Unfurnished,Bachelors,1025,Apartment,3,Manikonda,1,Carpet Area,East,2,Unknown,Immediately,2,21000.0,0
+573,Unfurnished,Bachelors,1570,Apartment,3,Shanthi Nagar-Kukatpally,2,Carpet Area,South,3,Garden/Park,Immediately,3,16500.0,0
+574,Semi-Furnished,Family,1650,Apartment,3,OU Colony,1,Carpet Area,North,0,Garden/Park,Immediately,2,31000.0,1
+575,Unfurnished,Bachelors,1150,House,2,Gachibowli,2,Carpet Area,West,2,Unknown,Immediately,2,19500.0,0
+576,Semi-Furnished,Bachelors/Family,1100,House,2,Nizampet,1,Carpet Area,East,0,Main Road,Immediately,2,15000.0,2
+577,Unfurnished,Bachelors,1000,House,2,Hyderguda,2,Super Area,East,1,Unknown,Immediately,2,14500.0,0
+578,Semi-Furnished,Bachelors/Family,1200,Apartment,2,Gachibowli,2,Carpet Area,East,1,Unknown,Immediately,2,23000.0,0
+579,Semi-Furnished,Family,900,Apartment,2,Old Nallakunta,1,Carpet Area,East,1,Unknown,Immediately,2,13500.0,1
+580,Unfurnished,Bachelors/Family,1000,Apartment,2,Attapur,2,Carpet Area,East,2,Unknown,Immediately,2,12000.0,0
+581,Semi-Furnished,Bachelors/Family,500,Apartment,1,Marthanda Nagar,3,Carpet Area,East,1,Main Road,Immediately,1,12000.0,2
+582,Unfurnished,Bachelors,300,House,1,Yousufguda,2,Carpet Area,North-East,1,Main Road,Immediately,1,8800.0,0
+583,Unfurnished,Bachelors/Family,1350,Apartment,3,Manikonda,3,Carpet Area,North-East,2,Unknown,Immediately,2,15500.0,0
+584,Semi-Furnished,Family,1400,Apartment,3,MADEENAGUDA,3,Carpet Area,East,2,Garden/Park,Immediately,3,17500.0,1
+585,Unfurnished,Family,1800,House,2,Manikonda,2,Carpet Area,North-West,3,Main Road,Immediately,3,15000.0,0
+586,Unfurnished,Bachelors/Family,1000,Apartment,2,Nizampet,0,Carpet Area,East,1,Main Road,Immediately,2,13500.0,0
+587,Semi-Furnished,Bachelors,1700,Apartment,3,Narsingi,7,Carpet Area,East,2,Main Road,Immediately,3,18000.0,1
+588,Semi-Furnished,Bachelors/Family,1280,Apartment,3,Kukatpally,1,Carpet Area,North-East,1,Main Road,Immediately,2,13500.0,0
+589,Semi-Furnished,Bachelors,1800,Apartment,3,Kavuri Hills,3,Carpet Area,East,0,Main Road,Immediately,3,35000.0,1
+590,Furnished,Bachelors/Family,1150,Apartment,2,Hafeezpet,10,Carpet Area,East,2,Garden/Park,Immediately,2,27500.0,2
+591,Furnished,Family,1650,Apartment,3,Banjara Hills,3,Carpet Area,South,1,Main Road,Immediately,3,55000.0,1
+592,Semi-Furnished,Bachelors/Family,380,Unknown,0,Prashasan Nagar,3,Carpet Area,North-East,1,Main Road,Immediately,1,10000.0,0
+593,Furnished,Bachelors/Family,1600,Apartment,3,Defence Colony,2,Carpet Area,East,3,Unknown,Immediately,3,23000.0,0
+594,Semi-Furnished,Bachelors/Family,2000,Apartment,3,Nallagandla,9,Carpet Area,East,2,Unknown,Immediately,3,28000.0,0
+595,Furnished,Bachelors,1150,Apartment,3,Puppalaguda,5,Carpet Area,South,3,Garden/Park,Immediately,3,18500.0,0
+596,Semi-Furnished,Bachelors/Family,1300,Apartment,3,Silpa Park,5,Carpet Area,East,2,Main Road,Immediately,3,24000.0,0
+597,Semi-Furnished,Bachelors,1400,House,2,Vanasthalipuram,1,Carpet Area,North-East,2,Unknown,Immediately,2,15000.0,0
+598,Semi-Furnished,Bachelors/Family,2300,Apartment,3,Kokapet,7,Carpet Area,West,3,Main Road,Immediately,3,50000.0,2
+599,Semi-Furnished,Bachelors/Family,1400,Apartment,3,Puppalaguda,5,Carpet Area,East,1,Unknown,Immediately,3,18000.0,0
+600,Semi-Furnished,Bachelors/Family,1670,Apartment,3,Alkapur Township,2,Carpet Area,West,3,Main Road,Immediately,3,25000.0,1
+601,Semi-Furnished,Bachelors/Family,850,House,2,Madhura Nagar-Nizampet,2,Carpet Area,Unknown,2,Unknown,Immediately,2,12000.0,0
+602,Semi-Furnished,Family,1600,Apartment,3,Bikshapathi Nagar,3,Carpet Area,West,3,Unknown,Immediately,3,23000.0,1
+603,Semi-Furnished,Bachelors,1300,Apartment,3,Manikonda,0,Carpet Area,West,1,Garden/Park,Immediately,3,28000.0,0
+604,Semi-Furnished,Bachelors/Family,1700,House,3,Sangeet Nagar Somajiguda,1,Carpet Area,Unknown,2,Main Road,Immediately,3,20000.0,1
+605,Semi-Furnished,Bachelors,2000,Villa,4,Sathyanarayanapuram,0,Carpet Area,East,2,Unknown,Immediately,4,13000.0,1
+606,Unfurnished,Bachelors,1150,Apartment,2,Gopanapalli,3,Carpet Area,East,2,Unknown,Immediately,2,20000.0,1
+607,Semi-Furnished,Bachelors/Family,1700,Apartment,3,Kondapur,3,Carpet Area,Unknown,0,Unknown,Immediately,4,30000.0,0
+608,Unfurnished,Bachelors/Family,2300,Apartment,4,Kondapur,1,Carpet Area,Unknown,3,Main Road,Immediately,4,50000.0,0
+609,Unfurnished,Bachelors/Family,950,Apartment,2,Moula Ali,3,Carpet Area,North,2,Main Road,Immediately,2,13000.0,1
+610,Semi-Furnished,Bachelors/Family,1650,Apartment,3,Kokapet,5,Carpet Area,Unknown,1,Garden/Park,Immediately,3,42000.0,0
+611,Semi-Furnished,Bachelors/Family,2050,Apartment,3,Srinagar Colony,5,Carpet Area,South,2,Main Road,Immediately,3,50000.0,0
+612,Unfurnished,Bachelors,1350,House,2,Kondapur,1,Carpet Area,North-East,2,Main Road,Immediately,2,21000.0,0
+613,Furnished,Bachelors/Family,4300,Villa,4,Serilingampally,0,Carpet Area,East,4,Main Road,Immediately,4,100000.0,2
+614,Furnished,Bachelors/Family,1750,Apartment,3,Kondapur,2,Carpet Area,North,2,Garden/Park,Immediately,3,40000.0,2
+615,Semi-Furnished,Family,1357,Apartment,3,Lingampally-Serilingampally,2,Carpet Area,East,0,Main Road,Immediately,2,25000.0,0
+616,Semi-Furnished,Family,1685,Apartment,3,Hafeezpet,2,Carpet Area,East,1,Garden/Park,Immediately,2,20000.0,1
+617,Semi-Furnished,Family,2300,Villa,4,Beeramguda,0,Carpet Area,West,1,Main Road,Immediately,3,20000.0,2
+618,Semi-Furnished,Bachelors/Family,2000,Apartment,3,Vittal Rao Nagar,3,Carpet Area,South,3,Main Road,Immediately,3,46000.0,2
+619,Semi-Furnished,Bachelors/Family,1300,House,2,Ayyappa Society,0,Carpet Area,West,0,Main Road,Immediately,2,30000.0,0
+620,Semi-Furnished,Family,2800,Apartment,4,Langar Houz,4,Carpet Area,West,1,Garden/Park,Immediately,5,35000.0,3
+621,Semi-Furnished,Bachelors/Family,1700,Apartment,3,Gandhi Nagar,1,Carpet Area,East,2,Main Road,Immediately,3,30000.0,1
+622,Unfurnished,Bachelors/Family,860,Apartment,2,Bhargavi residency,1,Super Area,Unknown,0,Unknown,Immediately,2,15000.0,0
+623,Furnished,Bachelors/Family,450,Unknown,0,Kondapur,4,Carpet Area,East,0,Main Road,Immediately,1,25000.0,1
+624,Semi-Furnished,Bachelors,1000,Apartment,2,Kondapur,4,Carpet Area,North-East,1,Main Road,Immediately,2,20000.0,0
+625,Semi-Furnished,Bachelors/Family,1375,Apartment,3,Nizampet,2,Carpet Area,East,1,Unknown,Immediately,2,20000.0,0
+626,Semi-Furnished,Family,2500,House,3,Shaikpet,0,Super Area,North,2,Unknown,Immediately,3,35000.0,0
+627,Semi-Furnished,Bachelors/Family,2150,Apartment,3,Madhura Nagar,5,Carpet Area,East,1,Main Road,Immediately,2,24000.0,0
+628,Semi-Furnished,Bachelors/Family,700,House,2,Masab Tank,0,Carpet Area,East,0,Unknown,Immediately,1,10000.0,0
+629,Semi-Furnished,Family,1500,Apartment,3,Toli Chowki,3,Carpet Area,East,2,Main Road,Immediately,3,27000.0,1
+630,Semi-Furnished,Bachelors/Family,1585,Apartment,3,Gachibowli,9,Carpet Area,West,1,Garden/Park,Immediately,3,32000.0,2
+631,Unfurnished,Bachelors/Family,1200,House,2,Manikonda,1,Carpet Area,East,0,Main Road,Immediately,2,16000.0,0
+632,Semi-Furnished,Bachelors/Family,1050,Apartment,2,Amberpet,3,Carpet Area,Unknown,1,Main Road,Immediately,2,16000.0,1
+633,Semi-Furnished,Bachelors/Family,4400,Apartment,4,Madhapur,4,Carpet Area,Unknown,2,Main Road,Immediately,3,100000.0,0
+634,Semi-Furnished,Bachelors,1805,Apartment,3,Manikonda,4,Carpet Area,East,1,Main Road,Immediately,3,27000.0,0
+635,Semi-Furnished,Family,2403,Villa,3,BHEL Employees Co-operative Housing Society,0,Carpet Area,West,1,Garden/Park,Immediately,3,15000.0,1
+636,Semi-Furnished,Bachelors/Family,1800,House,2,Padmarao Nagar,0,Carpet Area,East,3,Main Road,Immediately,3,27000.0,1
+637,Unfurnished,Bachelors/Family,1022,House,2,Kismatpur,0,Carpet Area,North,1,Main Road,Immediately,2,9500.0,0
+638,Semi-Furnished,Family,2000,Apartment,4,Gandhi Nagar,1,Carpet Area,East,3,Main Road,Immediately,4,35000.0,2
+639,Semi-Furnished,Bachelors,1432,Apartment,3,Masjid Banda,4,Carpet Area,East,2,Main Road,Immediately,3,27500.0,1
+640,Semi-Furnished,Bachelors,1373,Apartment,3,KPHB Phase 3,14,Carpet Area,South,3,Garden/Park,Immediately,2,30000.0,2
+641,Semi-Furnished,Bachelors/Family,1700,Apartment,3,Hafeezpet,7,Carpet Area,North-East,4,Garden/Park,Immediately,3,26000.0,1
+642,Unfurnished,Bachelors,1100,House,2,Hayathnagar,1,Carpet Area,North-West,1,Garden/Park,Immediately,2,10000.0,0
+643,Semi-Furnished,Family,1800,Apartment,3,Nallagandla,11,Carpet Area,East,3,Pool,Immediately,3,46940.0,2
+644,Unfurnished,Bachelors,1400,Apartment,3,Toli Chowki,1,Carpet Area,North-East,1,Garden/Park,Immediately,2,15000.0,0
+645,Furnished,Bachelors/Family,1240,Apartment,2,Bandlaguda Jagir,12,Carpet Area,East,0,Unknown,Immediately,2,22000.0,0
+646,Semi-Furnished,Bachelors/Family,1375,Apartment,3,Abhudaya Nagar Colony,5,Carpet Area,West,1,Garden/Park,Immediately,2,14000.0,1
+647,Furnished,Bachelors/Family,1222,Apartment,2,Kondapur,2,Carpet Area,East,2,Garden/Park,Immediately,2,28000.0,0
+648,Semi-Furnished,Bachelors,1000,Apartment,2,Vivekananda Nagar,3,Carpet Area,North-East,2,Main Road,Immediately,2,18000.0,0
+649,Unfurnished,Family,1150,Apartment,2,Bandlaguda Jagir,4,Carpet Area,East,2,Garden/Park,Immediately,2,15000.0,0
+650,Unfurnished,Bachelors/Family,1200,House,2,Saibaba Nagar-Kismatpur,3,Carpet Area,East,0,Garden/Park,Immediately,2,15000.0,0
+651,Semi-Furnished,Bachelors,1300,House,2,Balaji Enclave,0,Carpet Area,East,1,Unknown,Immediately,2,11500.0,1
+652,Unfurnished,Bachelors,1400,Apartment,3,Kalyan Puri,3,Carpet Area,North,1,Main Road,Immediately,3,24000.0,0
+653,Furnished,Family,1800,Apartment,3,Nanakram Guda,2,Carpet Area,East,2,Unknown,Immediately,3,37000.0,2
+654,Furnished,Bachelors/Family,1284,Apartment,3,Kokapet,3,Carpet Area,East,1,Unknown,Immediately,3,30000.0,0
+655,Semi-Furnished,Bachelors,1100,Apartment,3,Gachibowli,23,Carpet Area,East,2,Garden/Park,Immediately,2,25000.0,1
+656,Unfurnished,Bachelors/Family,900,Apartment,2,Asif Nagar,2,Carpet Area,Unknown,0,Main Road,Immediately,2,12000.0,0
+657,Unfurnished,Bachelors/Family,1200,Apartment,2,Gachibowli,1,Carpet Area,East,1,Garden/Park,Immediately,2,17000.0,2
+658,Semi-Furnished,Bachelors/Family,2525,Apartment,3,Nanakaramguda,1,Super Area,Unknown,0,Garden/Park,Immediately,4,45000.0,0
+659,Unfurnished,Bachelors,1500,Apartment,3,Tellapur,2,Super Area,West,2,Garden/Park,Immediately,3,20000.0,0
+660,Unfurnished,Bachelors,1400,House,2,Moti Nagar,0,Carpet Area,East,2,Main Road,Immediately,2,16000.0,0
+661,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Toli Chowki,2,Carpet Area,Unknown,1,Unknown,Immediately,2,40000.0,0
+662,Semi-Furnished,Bachelors,600,House,2,Chintal,0,Carpet Area,Unknown,0,Main Road,Immediately,2,10000.0,0
+663,Semi-Furnished,Family,1400,Apartment,3,Gachibowli,1,Carpet Area,East,1,Unknown,Immediately,3,35000.0,2
+664,Semi-Furnished,Bachelors/Family,900,Apartment,1,Nallagandla,3,Carpet Area,North-East,1,Main Road,Immediately,1,13000.0,1
+665,Semi-Furnished,Family,1000,House,2,Manovikas Nagar,0,Carpet Area,North,3,Unknown,Immediately,2,10000.0,1
+666,Semi-Furnished,Bachelors/Family,1000,House,2,Chanda Nagar,1,Carpet Area,East,1,Main Road,Immediately,2,14000.0,1
+667,Furnished,Bachelors/Family,1581,Apartment,3,Gachibowli,2,Carpet Area,East,2,Unknown,Immediately,3,30000.0,0
+668,Unfurnished,Bachelors,2150,Apartment,3,Madhapur,11,Carpet Area,West,5,Garden/Park,Immediately,3,50000.0,0
+669,Semi-Furnished,Bachelors/Family,1900,Apartment,3,Hafeezpet,2,Carpet Area,West,4,Garden/Park,Immediately,3,30000.0,1
+670,Semi-Furnished,Bachelors/Family,900,House,2,Secunderabad,1,Carpet Area,North,0,Unknown,Immediately,2,15000.0,1
+671,Semi-Furnished,Bachelors/Family,750,Apartment,2,Nizampet,3,Carpet Area,South,1,Main Road,Immediately,1,12000.0,0
+672,Unfurnished,Bachelors/Family,900,Apartment,2,Sree Prabhupada Township,2,Carpet Area,East,2,Main Road,Immediately,2,16000.0,0
+673,Semi-Furnished,Family,1380,Apartment,3,Kokapet,8,Carpet Area,West,3,Garden/Park,Immediately,2,32500.0,2
+674,Semi-Furnished,Bachelors/Family,1010,Apartment,2,Lingampally-Serilingampally,2,Carpet Area,East,1,Garden/Park,Immediately,2,15000.0,5
+675,Furnished,Bachelors/Family,1600,Apartment,3,RTC Colony-Chandanagar,3,Super Area,Unknown,2,Unknown,Immediately,3,27000.0,1
+676,Unfurnished,Bachelors,1100,Penthouse,2,Nagole,2,Super Area,Unknown,1,Garden/Park,Immediately,2,14500.0,0
+677,Unfurnished,Bachelors,1587,Apartment,3,Hafeezpet,5,Super Area,East,0,Garden/Park,Immediately,3,19500.0,1
+678,Unfurnished,Bachelors/Family,270,House,4,Attapur,1,Super Area,East,2,Unknown,Immediately,3,28000.0,0
+679,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Nagole,3,Carpet Area,West,1,Unknown,From Mar '22,2,13500.0,1
+680,Unfurnished,Bachelors/Family,3000,Apartment,3,Jubilee Hills,1,Super Area,Unknown,0,Unknown,Immediately,4,95000.0,0
+681,Semi-Furnished,Bachelors/Family,1170,Apartment,2,East Marredpally,5,Super Area,Unknown,0,Unknown,Immediately,2,25000.0,0
+682,Semi-Furnished,Family,1365,Apartment,3,Bolarum,5,Super Area,East,2,Unknown,Immediately,2,15000.0,1
+683,Semi-Furnished,Bachelors/Family,1342,Apartment,3,Pragathi Nagar,3,Carpet Area,Unknown,1,Unknown,Immediately,2,16000.0,0
+684,Semi-Furnished,Bachelors,1100,Apartment,3,Narsingi,8,Carpet Area,West,1,Main Road,Immediately,3,30000.0,0
+685,Semi-Furnished,Bachelors/Family,2500,Apartment,3,Nandagiri Hills,2,Carpet Area,North-East,2,Garden/Park,Immediately,3,65000.0,2
+686,Semi-Furnished,Bachelors,1750,Apartment,3,Banjara Hills,1,Carpet Area,North,2,Main Road,Immediately,3,32000.0,0
+687,Furnished,Bachelors/Family,1903,Apartment,3,Gachibowli,23,Carpet Area,North,2,Garden/Park,From Feb '22,3,55000.0,2
+688,Semi-Furnished,Family,4000,House,3,Attapur,0,Super Area,North-East,0,Main Road,Immediately,2,23000.0,0
+689,Semi-Furnished,Bachelors/Family,1200,Apartment,3,Financial District,2,Carpet Area,West,2,Garden/Park,Immediately,2,20000.0,1
+690,Furnished,Bachelors/Family,1177,Apartment,3,Raj Bhawan Road,3,Carpet Area,West,3,Garden/Park,Immediately,2,27000.0,1
+691,Unfurnished,Family,3800,Villa,4,Nizampet,0,Carpet Area,North,1,Main Road,Immediately,3,60000.0,2
+692,Unfurnished,Bachelors,1100,Apartment,2,Chandanagar,3,Carpet Area,West,2,Garden/Park,Immediately,2,15000.0,0
+693,Unfurnished,Bachelors/Family,1250,Apartment,2,Padmanabha Nagar,2,Carpet Area,West,2,Garden/Park,From Mar '22,2,20000.0,0
+694,Semi-Furnished,Bachelors,140,Villa,2,Sangareddy District,0,Carpet Area,West,1,Unknown,Immediately,2,9300.0,0
+695,Semi-Furnished,Bachelors/Family,1755,Apartment,3,Gachibowli,8,Carpet Area,East,2,Unknown,Immediately,3,43000.0,2
+696,Semi-Furnished,Bachelors,6500,Villa,5,Jubilee Hills,0,Carpet Area,North,3,Main Road,Immediately,6,300000.0,0
+697,Unfurnished,Bachelors/Family,1088,Apartment,2,Moula Ali,1,Super Area,Unknown,1,Unknown,Immediately,2,9500.0,0
+698,Unfurnished,Bachelors,1356,Apartment,3,Manikonda,3,Carpet Area,West,2,Unknown,Immediately,2,15000.0,0
+699,Semi-Furnished,Bachelors/Family,1165,Apartment,2,Miyapur,0,Carpet Area,Unknown,1,Unknown,Immediately,2,17000.0,0
+700,Unfurnished,Bachelors/Family,1100,Apartment,2,Kondapur,4,Carpet Area,Unknown,2,Unknown,Immediately,2,20000.0,0
+701,Unfurnished,Bachelors/Family,110,House,2,Badangpet,1,Carpet Area,East,0,Unknown,Immediately,2,5500.0,0
+702,Unfurnished,Family,1200,House,2,Peerzadiguda,1,Carpet Area,East,2,Garden/Park,Immediately,2,15000.0,1
+703,Semi-Furnished,Bachelors/Family,1500,Apartment,3,Gachibowli,1,Carpet Area,Unknown,1,Unknown,Immediately,3,25000.0,0
+704,Semi-Furnished,Family,1200,House,2,Bandlaguda Jagir,0,Super Area,East,1,Unknown,Immediately,1,10500.0,1
+705,Unfurnished,Family,1200,House,2,Gajularamaram,0,Carpet Area,North,1,Main Road,Immediately,2,8500.0,0
+706,Semi-Furnished,Bachelors,1702,Apartment,3,Sayeedabad,1,Carpet Area,Unknown,2,Main Road,Immediately,3,28000.0,0
+707,Unfurnished,Bachelors,1000,House,2,Lalapet,1,Carpet Area,East,2,Garden/Park,Immediately,2,12000.0,0
+708,Semi-Furnished,Bachelors/Family,1600,Apartment,3,Miyapur,5,Carpet Area,East,3,Main Road,Immediately,3,35000.0,3
+709,Furnished,Family,2410,Apartment,3,Gachibowli,8,Super Area,East,2,Garden/Park,Immediately,3,65000.0,2
+710,Semi-Furnished,Bachelors,1620,Villa,3,Ghatkesar,0,Carpet Area,East,0,Garden/Park,Immediately,3,18000.0,0
+711,Furnished,Family,1150,Apartment,2,Puppalaguda,3,Carpet Area,North-East,2,Unknown,Immediately,2,18000.0,1
+712,Semi-Furnished,Bachelors/Family,1300,Apartment,3,Sun City,1,Carpet Area,North-East,0,Garden/Park,Immediately,2,13000.0,1
+713,Semi-Furnished,Bachelors,184,House,3,Nizampet,1,Carpet Area,Unknown,2,Unknown,Immediately,2,20000.0,0
+714,Unfurnished,Bachelors,1384,Apartment,3,Gachibowli,10,Carpet Area,West,2,Pool,Immediately,3,32000.0,0
+715,Semi-Furnished,Bachelors,1070,House,2,Sainikpuri,1,Carpet Area,North,2,Main Road,Immediately,2,15000.0,0
+716,Unfurnished,Family,1790,Apartment,3,Banjara Hills,3,Carpet Area,Unknown,1,Unknown,From Mar '22,3,32500.0,1
+717,Unfurnished,Family,1000,Apartment,2,Krishna Reddy Pet,2,Carpet Area,East,2,Unknown,Immediately,2,8000.0,1
+718,Furnished,Bachelors/Family,1100,Apartment,3,Manikonda,2,Carpet Area,Unknown,2,Unknown,Immediately,2,20000.0,0
+719,Semi-Furnished,Bachelors/Family,1300,House,2,New Nallakunta,1,Super Area,South,1,Unknown,Immediately,2,19000.0,3
+720,Furnished,Family,3750,Villa,4,Gandipet,0,Carpet Area,East,3,Main Road,Immediately,4,65000.0,1
+721,Unfurnished,Bachelors/Family,2100,Apartment,3,Hmt Sathavahana Nagar,3,Super Area,Unknown,0,Unknown,Immediately,2,27000.0,0
+722,Semi-Furnished,Bachelors/Family,800,House,2,kukatpally near hydernagar,0,Carpet Area,Unknown,2,Unknown,Immediately,2,15000.0,0
+723,Furnished,Bachelors/Family,1800,Apartment,3,Nallagandla,20,Super Area,East,0,Garden/Park,Immediately,3,36000.0,2
+724,Semi-Furnished,Bachelors/Family,900,House,2,Dr A.S. Rao Nagar,1,Carpet Area,East,2,Unknown,Immediately,2,13000.0,1
+725,Semi-Furnished,Bachelors,1728,Apartment,3,Hitech City,10,Carpet Area,West,1,Main Road,Immediately,3,32000.0,1
+726,Semi-Furnished,Bachelors/Family,1740,Apartment,3,Nanakaramguda,4,Carpet Area,Unknown,1,Unknown,Immediately,3,35000.0,0
+727,Furnished,Bachelors,450,Apartment,1,Gachibowli,3,Carpet Area,East,0,Main Road,Immediately,1,19000.0,0
+728,Semi-Furnished,Bachelors/Family,2500,Villa,3,Kompally,0,Carpet Area,East,2,Garden/Park,From Mar '22,3,33000.0,1
+729,Unfurnished,Family,1200,Villa,2,Beeramguda,0,Carpet Area,East,2,Main Road,Immediately,2,12500.0,0
+730,Semi-Furnished,Bachelors/Family,800,Apartment,2,Gayatri Hills,2,Carpet Area,North-East,1,Main Road,From Mar '22,2,13000.0,2
+731,Unfurnished,Family,680,House,2,Bandlaguda,0,Carpet Area,East,0,Main Road,Immediately,2,8000.0,0
+732,Unfurnished,Family,1500,House,2,Balapur,0,Carpet Area,West,3,Unknown,Immediately,3,11000.0,1
+733,Semi-Furnished,Bachelors/Family,1350,Apartment,2,Hitech City,1,Carpet Area,East,2,Main Road,Immediately,2,22500.0,0
+734,Unfurnished,Bachelors/Family,632,Apartment,2,New Mallepally,0,Carpet Area,East,0,Garden/Park,Immediately,1,9500.0,0
+735,Semi-Furnished,Bachelors/Family,1950,Apartment,3,Gachibowli,13,Carpet Area,East,0,Pool,Immediately,3,37000.0,2
+736,Semi-Furnished,Family,1475,Apartment,3,Chandanagar,5,Carpet Area,North,1,Main Road,Immediately,2,20000.0,1
+737,Unfurnished,Bachelors/Family,400,Apartment,1,Serilingampally,1,Carpet Area,South,0,Garden/Park,Immediately,1,8500.0,0
+738,Semi-Furnished,Bachelors,1100,Apartment,2,Musheerabad,4,Carpet Area,East,2,Main Road,Immediately,2,16000.0,1
+739,Semi-Furnished,Bachelors/Family,1200,Apartment,2,Narsingi,2,Carpet Area,East,2,Unknown,Immediately,2,15000.0,1
+740,Semi-Furnished,Bachelors/Family,2700,Apartment,4,Hafeezpet,11,Carpet Area,East,2,Garden/Park,Immediately,4,45000.0,2
+741,Unfurnished,Bachelors,500,House,1,Puppalaguda,2,Carpet Area,North,1,Garden/Park,Immediately,1,10000.0,0
+742,Semi-Furnished,Family,1000,Apartment,2,Sun City,3,Carpet Area,East,2,Unknown,Immediately,2,14000.0,2
+743,Semi-Furnished,Family,1830,Apartment,3,Raghavendra Colony,2,Super Area,East,0,Garden/Park,Immediately,2,21000.0,2
+744,Unfurnished,Family,750,House,2,Beeramguda,2,Carpet Area,East,2,Main Road,Immediately,2,7000.0,0
+745,Semi-Furnished,Bachelors/Family,3000,Villa,4,Tellapur,0,Super Area,East,0,Unknown,Immediately,4,35000.0,1
+746,Semi-Furnished,Bachelors/Family,780,Apartment,2,Srinagar Colony,1,Carpet Area,Unknown,2,Unknown,Immediately,2,15000.0,0
+747,Unfurnished,Bachelors/Family,1260,Apartment,3,Attapur,3,Super Area,East,0,Unknown,Immediately,2,16000.0,1
+748,Furnished,Bachelors,1950,Apartment,3,Kondapur,1,Super Area,East,1,Garden/Park,Immediately,3,29000.0,0
+749,Semi-Furnished,Bachelors/Family,1000,Apartment,2,Madinaguda,2,Carpet Area,West,1,Unknown,Immediately,2,11000.0,0
+750,Semi-Furnished,Family,1800,Apartment,3,Film Nagar,2,Carpet Area,East,3,Unknown,Immediately,3,26000.0,1
+751,Furnished,Bachelors/Family,3500,Apartment,4,Jubilee Hills,2,Super Area,Unknown,0,Unknown,Immediately,4,80000.0,0
+752,Semi-Furnished,Bachelors/Family,1000,House,2,Krishna Nagar Moula Ali,0,Carpet Area,West,2,Garden/Park,Immediately,2,7500.0,0
+753,Semi-Furnished,Bachelors/Family,6000,Villa,7,Jubilee Hills,0,Carpet Area,North-East,4,Main Road,Immediately,8,250000.0,0
+754,Semi-Furnished,Family,2000,House,3,Balakrishna Nagar,1,Carpet Area,East,1,Unknown,Immediately,3,18000.0,2
+755,Semi-Furnished,Bachelors/Family,240,House,1,Parvathi Nagar-Madhapur,0,Super Area,Unknown,1,Unknown,Immediately,1,10000.0,0
+756,Semi-Furnished,Bachelors/Family,1050,Apartment,2,Miyapur,3,Carpet Area,Unknown,2,Unknown,Immediately,2,18000.0,0
+757,Semi-Furnished,Bachelors/Family,2200,Apartment,4,Khaja Guda,6,Carpet Area,Unknown,3,Unknown,Immediately,3,55000.0,0
+758,Semi-Furnished,Bachelors/Family,900,Apartment,2,thitumala hills puppalaguda manikonda,3,Carpet Area,Unknown,1,Unknown,Immediately,1,16000.0,0
+759,Semi-Furnished,Bachelors/Family,375,House,1,Bharatnagar Colony ,0,Super Area,Unknown,0,Unknown,Immediately,1,6000.0,0
+760,Semi-Furnished,Family,1135,Apartment,2,Kukatpally,6,Super Area,Unknown,2,Unknown,From Mar '22,2,25000.0,1
+761,Semi-Furnished,Family,2400,Apartment,3,Alkapur Township,5,Carpet Area,East,2,Main Road,Immediately,3,35000.0,1
+762,Furnished,Bachelors/Family,1200,Apartment,3,Sun City,1,Carpet Area,East,2,Main Road,Immediately,3,25000.0,0
+763,Semi-Furnished,Bachelors/Family,1100,Apartment,2,Manikonda,4,Carpet Area,East,3,Unknown,Immediately,2,19000.0,0
+764,Unfurnished,Bachelors/Family,700,Apartment,2,Ram Bagh Colony,0,Carpet Area,East,1,Main Road,Immediately,2,10000.0,0
+765,Semi-Furnished,Bachelors/Family,1042,Apartment,2,Ameenpur,3,Carpet Area,East,2,Unknown,Immediately,2,9000.0,0
+766,Semi-Furnished,Bachelors/Family,1400,Apartment,3,Gachibowli Phase 3,3,Carpet Area,East,2,Garden/Park,Immediately,3,22000.0,0
+767,Semi-Furnished,Bachelors/Family,1450,Apartment,3,Banjara Hills,2,Carpet Area,West,3,Main Road,Immediately,3,35000.0,0
+768,Semi-Furnished,Bachelors,1000,Apartment,2,Nanakaramguda,2,Carpet Area,East,2,Main Road,Immediately,2,23500.0,1
+769,Unfurnished,Bachelors/Family,1458,Apartment,3,Amberpet,2,Carpet Area,South,1,Unknown,Immediately,3,25000.0,0
+770,Unfurnished,Bachelors/Family,700,Apartment,1,Kondapur,1,Carpet Area,North-East,1,Main Road,Immediately,1,10000.0,0
+771,Furnished,Bachelors/Family,1850,Apartment,3,KPHB Phase 3,5,Carpet Area,East,2,Main Road,Immediately,3,38000.0,2
+772,Unfurnished,Family,1350,House,2,Moosapet,0,Carpet Area,East,0,Main Road,Immediately,1,14000.0,0
+773,Semi-Furnished,Bachelors/Family,975,Apartment,3,Attapur,2,Carpet Area,East,0,Garden/Park,Immediately,2,10500.0,1
+774,Semi-Furnished,Bachelors/Family,3650,Villa,3,Kompally,0,Carpet Area,North-West,1,Garden/Park,Immediately,3,55000.0,1
+775,Semi-Furnished,Bachelors/Family,1100,Apartment,2,Whitefields,5,Carpet Area,Unknown,2,Main Road,Immediately,2,30000.0,1
+776,Unfurnished,Bachelors,1100,Apartment,2,Madinaguda,2,Carpet Area,North,1,Main Road,Immediately,2,14500.0,0
+777,Semi-Furnished,Bachelors/Family,900,Apartment,2,Himayath Nagar,2,Carpet Area,South,0,Unknown,Immediately,2,19000.0,1
+778,Unfurnished,Bachelors/Family,900,House,1,Gachibowli,0,Carpet Area,East,0,Unknown,Immediately,1,15000.0,0
+779,Unfurnished,Bachelors,1345,Apartment,3,Appa junction,6,Carpet Area,East,2,Garden/Park,Immediately,3,25000.0,0
+780,Unfurnished,Family,950,Apartment,2,Madinaguda,1,Carpet Area,East,2,Main Road,Immediately,2,12000.0,0
+781,Unfurnished,Bachelors,1900,Apartment,3,Kondapur,6,Carpet Area,East,1,Garden/Park,Immediately,3,35000.0,0
+782,Semi-Furnished,Bachelors,1100,Apartment,2,Gachibowli,3,Carpet Area,East,2,Main Road,Immediately,2,21000.0,0
+783,Unfurnished,Bachelors/Family,1700,House,2,Gachibowli,2,Carpet Area,East,1,Unknown,Immediately,2,18000.0,0
+784,Furnished,Bachelors/Family,1865,Apartment,3,Kokapet,3,Carpet Area,Unknown,2,Unknown,Immediately,3,38000.0,0
+785,Semi-Furnished,Bachelors/Family,1400,Apartment,3,Manikonda,31,Carpet Area,West,2,Unknown,Immediately,4,40000.0,0
+786,Semi-Furnished,Bachelors,2872,Apartment,3,Kavuri Hills,2,Carpet Area,West,3,Garden/Park,Immediately,4,63000.0,2
+787,Unfurnished,Bachelors,825,Apartment,2,Bandlaguda Jagir,0,Super Area,North,0,Main Road,Immediately,2,11000.0,0
+788,Furnished,Bachelors/Family,2030,Apartment,3,Yousufguda,1,Carpet Area,West,2,Garden/Park,Immediately,3,60000.0,0
+789,Semi-Furnished,Family,1300,Apartment,3,Kukatpally,1,Carpet Area,East,2,Garden/Park,Immediately,2,17500.0,0
+790,Semi-Furnished,Bachelors/Family,2050,Apartment,3,Gachibowli,0,Carpet Area,Unknown,0,Pool,Immediately,3,32000.0,0
+791,Unknown,Bachelors/Family,1600,Unknown,0,Gajularamaram,0,Carpet Area,Unknown,0,Unknown,Immediately,0,18000.0,0
+792,Furnished,Family,1933,Apartment,3,Kukatpally,19,Super Area,East,3,Main Road,Immediately,3,37000.0,1
+793,Semi-Furnished,Bachelors,1800,Apartment,3,Kokapet,13,Carpet Area,North,2,Pool,Immediately,3,38000.0,1
+794,Semi-Furnished,Family,1000,House,1,Ameenpur,0,Carpet Area,East,2,Unknown,Immediately,1,7500.0,0
+795,Unfurnished,Bachelors/Family,1400,House,1,Gudi Malkapur,2,Carpet Area,North-West,1,Unknown,Immediately,2,8500.0,0
+796,Unfurnished,Bachelors,900,House,2,Puppalaguda,1,Carpet Area,North,3,Unknown,Immediately,2,15000.0,0
+797,Unfurnished,Bachelors,900,Apartment,2,Kukatpally,1,Super Area,North,1,Main Road,Immediately,2,14500.0,0
+798,Semi-Furnished,Bachelors/Family,1855,Apartment,3,Gachibowli,8,Super Area,Unknown,3,Unknown,Immediately,3,28000.0,0
+799,Semi-Furnished,Family,1100,Apartment,2,Chandanagar,1,Super Area,North,1,Main Road,Immediately,2,15000.0,1
+800,Furnished,Bachelors,1676,Apartment,3,Muppas Panchavati Colony,3,Carpet Area,West,1,Main Road,Immediately,3,25000.0,0
+801,Unfurnished,Bachelors,2000,Apartment,2,Nallagandla,4,Super Area,Unknown,2,Unknown,Immediately,2,16500.0,0
+802,Semi-Furnished,Bachelors,2100,Apartment,3,Hitech City,1,Carpet Area,East,2,Main Road,Immediately,3,20000.0,0
+803,Semi-Furnished,Bachelors/Family,1300,Apartment,3,Sun City,2,Carpet Area,South-East,2,Main Road,Immediately,4,19000.0,1
+804,Furnished,Bachelors/Family,1800,Apartment,3,Nallagandla,14,Carpet Area,Unknown,2,Unknown,Immediately,3,24000.0,0
+805,Unfurnished,Bachelors,950,House,2,Trimulgherry,0,Carpet Area,East,2,Main Road,Immediately,2,10000.0,0
+806,Unfurnished,Family,800,House,1,Chandanagar,3,Carpet Area,North,1,Garden/Park,From Mar '22,1,11000.0,1
+807,Unfurnished,Family,1100,Apartment,2,Anupama Homes,1,Carpet Area,East,2,Garden/Park,Immediately,2,18999.0,1
+808,Semi-Furnished,Family,930,Apartment,2,Santosh Nagar-Mehdipatnam,3,Carpet Area,East,2,Garden/Park,From Mar '22,2,15000.0,0
+809,Furnished,Bachelors/Family,890,Apartment,2,Chandanagar,1,Carpet Area,East,0,Pool,Immediately,2,21000.0,1
+810,Semi-Furnished,Bachelors,1141,Apartment,2,Kondapur,3,Super Area,East,1,Unknown,Immediately,2,17000.0,0
+811,Unfurnished,Family,1200,House,3,Badangpet,1,Carpet Area,East,2,Main Road,Immediately,3,15000.0,0
+812,Unfurnished,Bachelors,1100,Apartment,2,Bachupally,0,Carpet Area,North-East,2,Main Road,Immediately,3,9000.0,0
+813,Semi-Furnished,Bachelors/Family,2600,Apartment,4,Gachibowli,6,Super Area,East,3,Garden/Park,Immediately,4,40000.0,2
+814,Semi-Furnished,Family,1700,Apartment,3,LB Nagar,1,Super Area,South-East,2,Unknown,Immediately,3,21000.0,0
+815,Semi-Furnished,Bachelors,1080,Apartment,2,Gachibowli,1,Super Area,Unknown,1,Unknown,Immediately,2,17000.0,0
+816,Unfurnished,Family,700,House,1,Kompally,1,Carpet Area,East,2,Unknown,Immediately,1,8500.0,2
+817,Semi-Furnished,Bachelors/Family,1590,Apartment,3,Miyapur,3,Carpet Area,East,3,Pool,Immediately,3,22000.0,1
+818,Semi-Furnished,Family,2170,Apartment,3,Kokapet,6,Super Area,West,3,Unknown,From Mar '22,3,40000.0,2
+819,Semi-Furnished,Family,1650,Apartment,3,Nizampet,2,Carpet Area,West,3,Garden/Park,Immediately,3,22000.0,1
+820,Semi-Furnished,Family,1525,Apartment,3,Kakatiya Hills,4,Super Area,East,2,Garden/Park,Immediately,3,25000.0,1
+821,Unfurnished,Bachelors/Family,1730,Apartment,3,Gopanapalli,1,Carpet Area,Unknown,2,Unknown,Immediately,3,29000.0,0
+822,Unfurnished,Bachelors/Family,1100,Apartment,2,Uppal,1,Carpet Area,North-West,1,Garden/Park,Immediately,2,11000.0,0
+823,Semi-Furnished,Bachelors/Family,220,Villa,3,Dammaiguda,0,Carpet Area,West,1,Main Road,Immediately,3,22000.0,1
+824,Semi-Furnished,Bachelors/Family,1600,Apartment,3,Kokapet,7,Super Area,West,1,Pool,Immediately,3,34000.0,0
+825,Unfurnished,Bachelors/Family,1250,House,2,Shameerpet,1,Super Area,Unknown,0,Unknown,Immediately,2,8000.0,0
+826,Unfurnished,Family,1200,House,2,Venkatraya Nagar,1,Carpet Area,East,2,Garden/Park,Immediately,2,12500.0,0
+827,Semi-Furnished,Family,1300,Apartment,3,Sanath Nagar,15,Carpet Area,West,1,Garden/Park,Immediately,3,45000.0,2
+828,Unfurnished,Family,1520,Apartment,3,Attapur,4,Super Area,East,2,Main Road,Immediately,3,16000.0,0
+829,Semi-Furnished,Family,0,Apartment,2,Prakash Nagar,2,Super Area,East,2,Main Road,Immediately,2,20000.0,1
+830,Unfurnished,Bachelors,1155,Apartment,2,Mallampet,1,Carpet Area,West,2,Main Road,Immediately,2,11000.0,0
+831,Semi-Furnished,Family,1050,Apartment,2,Neknampur,5,Carpet Area,Unknown,1,Unknown,Immediately,2,13000.0,1
+832,Furnished,Bachelors/Family,1560,Apartment,3,Gachibowli,5,Carpet Area,East,2,Unknown,Immediately,2,50000.0,0
+833,Unfurnished,Bachelors/Family,1000,Apartment,2,Chanda Nagar,2,Carpet Area,East,1,Main Road,Immediately,2,14000.0,0
+834,Semi-Furnished,Bachelors/Family,2150,Apartment,3,Nallagandla,17,Super Area,West,0,Unknown,From Mar '22,3,40000.0,2
+835,Semi-Furnished,Bachelors/Family,1425,Apartment,3,Miyapur,1,Carpet Area,Unknown,2,Unknown,Immediately,3,14000.0,0
+836,Unfurnished,Bachelors,1050,House,2,Suchitra Circle,1,Carpet Area,East,1,Main Road,Immediately,2,14000.0,0
+837,Unknown,Bachelors/Family,0,Unknown,0,Pocharam,0,Super Area,Unknown,0,Unknown,Immediately,0,11000.0,0
+838,Furnished,Bachelors/Family,2502,Villa,3,Appa junction,0,Carpet Area,West,2,Unknown,Immediately,3,32000.0,2
+839,Semi-Furnished,Bachelors/Family,800,Apartment,1,Pragathi Nagar,3,Carpet Area,Unknown,2,Unknown,Immediately,1,9000.0,0
+840,Semi-Furnished,Bachelors,1150,Apartment,2,Bachupally,4,Carpet Area,North,2,Unknown,Immediately,2,9000.0,0
+841,Unfurnished,Bachelors/Family,1000,Apartment,2,Madinaguda,5,Carpet Area,West,2,Garden/Park,Immediately,2,13500.0,0
+842,Unfurnished,Bachelors,1400,Apartment,3,Mehdipatnam,4,Carpet Area,West,2,Main Road,Immediately,3,20000.0,0
+843,Semi-Furnished,Family,1250,Apartment,2,Jaya Nagar,2,Carpet Area,North,2,Main Road,Immediately,2,15000.0,1
+844,Semi-Furnished,Bachelors,1100,Apartment,3,Gachibowli,3,Carpet Area,East,1,Pool,Immediately,3,26000.0,0
+845,Unfurnished,Bachelors/Family,1270,Apartment,2,SD Road,3,Super Area,Unknown,0,Unknown,Immediately,2,17000.0,0
+846,Unfurnished,Bachelors,900,Apartment,2,RTC Colony-Chandanagar,4,Super Area,East,1,Unknown,Immediately,2,9000.0,0
+847,Unfurnished,Bachelors,1100,Apartment,2,Musheerabad,4,Carpet Area,West,2,Unknown,Immediately,2,16000.0,0
+848,Furnished,Bachelors,1260,Apartment,3,Mallareddy Nagar,2,Carpet Area,East,2,Main Road,Immediately,3,20000.0,0
+849,Unfurnished,Bachelors/Family,1300,Apartment,2,Brindavan Colony-Toli Chowki,3,Carpet Area,Unknown,2,Garden/Park,Immediately,2,11000.0,3
+850,Semi-Furnished,Bachelors/Family,1870,Apartment,3,Serilingampally,3,Super Area,East,2,Unknown,Immediately,3,28000.0,0
+851,Unfurnished,Bachelors,300,House,1,Narsingi,0,Carpet Area,East,1,Main Road,Immediately,2,16000.0,0
+852,Semi-Furnished,Bachelors/Family,2020,Apartment,3,Gachibowli,5,Carpet Area,Unknown,2,Unknown,Immediately,3,45000.0,0
+853,Unfurnished,Bachelors,1800,Apartment,3,VASAVI GRANDE VISTA,5,Carpet Area,West,1,Garden/Park,Immediately,3,30000.0,0
+854,Unfurnished,Bachelors,1200,House,2,Osman Nagar,1,Carpet Area,West,1,Unknown,Immediately,2,14000.0,0
+855,Furnished,Family,1798,Villa,3,Kompally,0,Super Area,East,0,Unknown,Immediately,3,27000.0,1
+856,Unfurnished,Bachelors/Family,3000,Villa,3,Tellapur,0,Carpet Area,Unknown,1,Unknown,Immediately,4,35000.0,0
+857,Furnished,Bachelors/Family,4900,Villa,4,Kokapet,0,Super Area,North,2,Garden/Park,Immediately,4,180000.0,2
+858,Unfurnished,Bachelors,1100,House,2,Ameenpur,0,Carpet Area,East,0,Main Road,Immediately,2,10000.0,0
+859,Semi-Furnished,Bachelors/Family,700,Villa,1,Sai Anurag Colony,0,Carpet Area,East,0,Main Road,Immediately,1,8500.0,1
+860,Semi-Furnished,Bachelors,900,Apartment,2,Narsingi,5,Carpet Area,West,1,Main Road,Immediately,2,18500.0,1
+861,Semi-Furnished,Bachelors/Family,1390,Apartment,3,Hafeezpet,5,Carpet Area,East,2,Garden/Park,Immediately,2,24000.0,2
+862,Semi-Furnished,Bachelors,800,Apartment,2,Shanti Sikhara Apartments. Somajiguda,4,Carpet Area,Unknown,1,Main Road,Immediately,2,18000.0,0
+863,Semi-Furnished,Bachelors/Family,950,Apartment,2,Kukatpally,4,Carpet Area,East,1,Main Road,Immediately,2,15000.0,1
+864,Unfurnished,Bachelors/Family,1100,Apartment,2,Moghal Nagar,1,Carpet Area,East,1,Unknown,Immediately,2,12000.0,0
+865,Unfurnished,Family,1100,Apartment,2,Friends Colony,2,Carpet Area,East,1,Main Road,Immediately,2,15000.0,1
+866,Unfurnished,Bachelors,650,Apartment,1,Somajiguda,1,Carpet Area,South,0,Main Road,Immediately,1,10000.0,0
+867,Furnished,Bachelors,885,Apartment,2,Sun City,4,Carpet Area,North-West,2,Main Road,Immediately,2,15000.0,0
+868,Furnished,Bachelors/Family,950,Apartment,2,Serilingampally,5,Carpet Area,East,2,Main Road,Immediately,2,14700.0,1
+869,Semi-Furnished,Family,1800,Apartment,3,Raghavendra Colony,5,Carpet Area,East,2,Unknown,Immediately,3,22000.0,1
